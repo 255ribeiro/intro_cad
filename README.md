@@ -28,7 +28,8 @@ Grupo de informações (e-mail):
     * Avaliações
 
 1. Funcionamento do Laboratório
-   [Regras do LCAD](https://github.com/255ribeiro/CAD_intro/blob/master/RegrasDoLCAD.md)
+
+   [Regras do LCAD](./RegrasDoLCAD.md)
 
 1. Instalação do Programa
 
