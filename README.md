@@ -36,9 +36,13 @@ Grupo de informações (e-mail):
 1. Interface
 
    -Tipos de arquivos
+   
    -Menus e Ribbon
+   
    -Tela gráfica
+   
    -Interface de entrada de dados
+   
    -Sistema de coordenadas
 
 1. Referências e Links
