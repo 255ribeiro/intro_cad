@@ -35,15 +35,15 @@ Grupo de informações (e-mail):
 
 1. Interface
 
-   -Tipos de arquivos
+   - Tipos de arquivos
    
-   -Menus e Ribbon
+   - Menus e Ribbon
    
-   -Tela gráfica
+   - Tela gráfica
    
-   -Interface de entrada de dados
+   - Interface de entrada de dados
    
-   -Sistema de coordenadas
+   - Sistema de coordenadas
 
 1. Referências e Links
    - instalação
