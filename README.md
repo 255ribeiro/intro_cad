@@ -37,6 +37,12 @@ Grupo de informações (e-mail):
 
    - Tipos de arquivos
    
+      - .dwg (arquivo padrão de trabalho)
+      - .dxf (arquivo para comunicação com outros softwares)
+      - .dwt (arquivo modelo)
+      - .ctb (arquivo de espessura de penas)
+      - .pdf (arquivo para impressão)
+   
    - Menus e Ribbon
    
    - Tela gráfica
