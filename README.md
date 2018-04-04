@@ -32,11 +32,15 @@ Grupo de informações (e-mail):
 1. Instalação do Programa
 
 1. Referências e Links
+   - instalação
+   [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
 
 <hr>
 
 #### Aula 02 - (11/4/2018)
 
+
+1. Referências e Links
 
 <hr>
 
@@ -47,14 +51,14 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-    [Tutorial de massas no Revit(ENG) M Smith](https://www.youtube.com/watch?v=1hqkX6IW6MQ&list=PL5fgrebBtwJIgZ9gH32qJ0WQYC1-avW2f)
-
-    [Tutorial de exportação do Sketchup para o Revit](https://www.youtube.com/watch?v=qShQSwh33Bs)
+   
 
 <hr>
 
 #### Aula 04 - (25/4/2018)
 
+
+1. Referências e Links
 
 <hr>
 
@@ -63,25 +67,15 @@ Grupo de informações (e-mail):
 
 
 
+1. Referências e Links
 
 
 <hr>
 
 #### Aula 06 - (9/5/2018)
 
-1. Modelagem de Rampas
-    * Laje inclinada
-    * Rampa
-        * Inclinação e descansos
+1. Referências e Links
 
-1. Modelagem de escadas
-    * Formula de Blondel
-
-1. Corrimão e guarda-corpo
-
-2. Referências e Links
-
-[edição de escada e guarda-corpo PDF](https://revitclass.files.wordpress.com/2012/07/insanelygreatstairs.pdf)
 
 
 <hr>
@@ -89,19 +83,15 @@ Grupo de informações (e-mail):
 
 #### Aula 07 - (16/5/2018)
 
-1. Modelagem de Terrenos
-    * Modelagem a partir de base vetorial
-    * Modelagem a partir de base raster
-    * Corte e aterro
-        * Plataformas
-        * Talude
+1. Referências e Links
 
 
 <hr>
 
 #### Aula 08 - (23/5/2018)
 
-1. Orientação do trabalho de modelagem
+1. Referências e Links
+
 
 
 
@@ -109,7 +99,7 @@ Grupo de informações (e-mail):
 
 #### Aula 09 - (30/5/2018)
 
-1. Orientação do trabalho de modelagem
+1. Referências e Links
 
 <hr>
 
@@ -117,9 +107,7 @@ Grupo de informações (e-mail):
 #### Aula 10 - (6/6/2018)
 
 
-1. Orientação do trabalho de modelagem
-
-1. Entrega do trabalho de modelagem
+1. Referências e Links
 
 
 <hr>
@@ -127,27 +115,7 @@ Grupo de informações (e-mail):
 
 #### Aula 11 - (13/6/2018)
 
-1. Vistas e folhas
-    * definindo escala
-    * Definindo Nível de detalhe
-    * *Object Styles*
-    * *Visibility Graphics*
-    * Margens
-    * Carimbos
-
-
-1. famílias de anotações
-    * Norte : [configurando anotação de norte e norte verdadeiro](./Anotacoes/norte.md)
-    * Cotas : [Instruções para configuração das cotas ](./Anotacoes/cotas.md)
-    * Níveis
-    * Textos
-    * Legendas
-    * Tags
-
-1. Templates ABNT Revit gratúitos:
-    1. [Actech](https://actech.net.br/template-abnt/)
-    2. [MCMV](https://www.aarquiteta.com.br/blog/revit-arquitetura/minha_casa_minha_vida/)
-    3. [Alan Araújo](https://www.projetoacg.com/index.php/servicos/cursos/revit/template-revit-download/)
+1. Referências e Links
 
 
 <hr>
@@ -156,17 +124,7 @@ Grupo de informações (e-mail):
 #### Aula 12 - (20/6/2018)
 
 
-1. Hierarquia de penas
-    * *Object Styles*
-    * *Visibility Graphics*
-        - modelos de vistas
-        - criar, aplicar, remover
-    * *lineWork Tool*
-
-1. Hachuras de Piso e paredes
-    * Hachuras de modelo
-    * Hachuras de desenho
-    * Materiais
+1. Referências e Links
 
 
 <hr>
@@ -174,51 +132,27 @@ Grupo de informações (e-mail):
 
 #### Aula 13 - (27/6/2018)
 
-1. Quadro de áreas
-    * áreas de cômodos
-    * áreas totais
-
-
-1. Tabelas de Quantitativos
-
-1. Impressão
-    * DWG
-    * DWF
-    * PDF
-        - Impresoras PDF
-            - [FlexiPDF Basic](http://www.freeoffice.com/pt/descobrir/flexipdf-basic)
-            - [PDF Creator](http://www.pdfforge.org/pdfcreator)
-
+1. Referências e Links
 
 
 <hr>
 
 #### Aula 14 - (4/7/2018)
 
-1. Estudo de Sombras
-    * Coordenadas Geográficas
-    * Norte veradeiro
-    * Configurando Sombras
-    * Data e hora
-
-2. Render
-    * Materiais
-    * Luzes
-    * Pós-produção
-    * Percurso em vídeo
+1. Referências e Links
 
 <hr>
 
 
 #### Aula 15 - (11/7/2018)
 
-1. Orientação do segundo trabalho
+1. Referências e Links
 
-****
+<hr>
 
 #### Aula 16 - (18/7/2018)
 
-1. Entrega do segundo trabalho
+1. Referências e Links
 
 
 <hr>
@@ -226,10 +160,7 @@ Grupo de informações (e-mail):
 
 #### Aula 16 - (18/7/2018)
 
-1. Avaliação do curso
-
-1. Notas
-
+1. Referências e Links
 
 <hr>
 <hr>
