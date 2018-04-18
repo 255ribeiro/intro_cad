@@ -69,22 +69,23 @@ Grupo de informações (e-mail):
 
 #### Aula 02 - (11/4/2018)
 
+
 1. Comandos de Edição Parte 1
+
+        divide(div)
+        fillet(f)
 
         move(m)
         copy(co)
         mirror(mi)
 
 
+1. Tipo de ponto (point style)
+
+        ptype
 
 
-
-
-2. Exercício
-
-
-
-
+1. Exercício
 
 
 
@@ -95,6 +96,10 @@ Grupo de informações (e-mail):
 
 #### Aula 03 - (18/4/2018)
 
+1. Organização dos arquivos
+    Camadas (layers)
+
+        Layer(la)
 
 2. Comandos de edição parte 2
 
