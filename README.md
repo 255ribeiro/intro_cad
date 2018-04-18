@@ -36,33 +36,56 @@ Grupo de informações (e-mail):
 1. Interface
 
    - Tipos de arquivos
-   
+
       - .dwg (arquivo padrão de trabalho)
       - .dxf (arquivo para comunicação com outros softwares)
       - .dwt (arquivo modelo)
       - .ctb (arquivo de espessura de penas)
       - .pdf (arquivo para impressão)
-   
+
    - Menus e Ribbon
-   
+
    - Tela gráfica
-   
+
    - Interface de entrada de dados
-   
+
    - Sistema de coordenadas
 
+1. Exercício
+
+    [Coordenadas cartesianas e polares](./Exercicio_01_Coordenadas.pdf)    
+
 1. Referências e Links
+
    - instalação
-   
+
    [https://www.youtube.com/watch?v=ozPfHO50jwo](https://www.youtube.com/watch?v=ozPfHO50jwo)
-   
+
    [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
-   
-  
+
+
 
 <hr>
 
 #### Aula 02 - (11/4/2018)
+
+1. Comandos de Edição Parte 1
+
+        move(m)
+        copy(co)
+        mirror(mi)
+
+
+
+
+
+
+2. Exercício
+
+
+
+
+
 
 
 1. Referências e Links
@@ -73,10 +96,21 @@ Grupo de informações (e-mail):
 #### Aula 03 - (18/4/2018)
 
 
+2. Comandos de edição parte 2
+
+        Trim(tr)
+        extend(ex)
+
+1. Exercício
+
+
+[Planta Baixa](./Exercicio_02_Cabana_Chamberlain.pdf)
+
+
 
 1. Referências e Links
 
-   
+
 
 <hr>
 
@@ -189,4 +223,3 @@ Grupo de informações (e-mail):
 
 <hr>
 <hr>
-
