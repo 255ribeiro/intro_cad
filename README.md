@@ -72,17 +72,22 @@ Grupo de informações (e-mail):
 
 1. Comandos de Edição Parte 1
 
-        divide(div)
+
         fillet(f)
+        offset(o)
 
         move(m)
         copy(co)
         mirror(mi)
+        rotate(ro)
 
 
 1. Tipo de ponto (point style)
 
-        ptype
+        point(po)
+        divide(div)
+        measure(ME)
+        ptype(PT)
 
 
 1. Exercício
@@ -111,7 +116,7 @@ Grupo de informações (e-mail):
 
 [Planta Baixa](./Exercicio_02_Cabana_Chamberlain.pdf)
 
-[cORTE E FACHADA](./Exercicio_02_Cabana_Chamberlain02.pdf)
+[CORTE E FACHADA](./Exercicio_02_Cabana_Chamberlain02.pdf)
 
 [SUBSOLO](./Exercicio_02_Cabana_Chamberlain03.pdf)
 
@@ -126,9 +131,19 @@ Grupo de informações (e-mail):
 
 #### Aula 04 - (25/4/2018)
 
+1. VARIÁVEIS DO SISTEMA
+
+        MIRRTEXT
+        PICKFIRST
+
+
 1. CONFIGURANDO TIPOS DE LINHA
 
 [RESUMO](./tiposDeLinha/apostilaAutocadTiposDeLinha.pdf)
+
+1. COMANDO PROPERTIES
+
+        PROPERTIES(PR) CTRL+1
 
 1. Referências e Links
 
