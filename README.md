@@ -82,7 +82,7 @@ Grupo de informações (e-mail):
         rotate(ro)
 
 
-1. Tipo de ponto (point style)
+1. Comandos de Ponto e divisão
 
         point(po)
         divide(div)
