@@ -111,6 +111,11 @@ Grupo de informações (e-mail):
 
 [Planta Baixa](./Exercicio_02_Cabana_Chamberlain.pdf)
 
+[cORTE E FACHADA](./Exercicio_02_Cabana_Chamberlain02.pdf)
+
+[SUBSOLO](./Exercicio_02_Cabana_Chamberlain03.pdf)
+
+
 
 
 1. Referências e Links
@@ -121,6 +126,9 @@ Grupo de informações (e-mail):
 
 #### Aula 04 - (25/4/2018)
 
+1. CONFIGURANDO TIPOS DE LINHA
+
+[RESUMO](./tiposDeLinha/apostilaAutocadTiposDeLinha.pdf)
 
 1. Referências e Links
 
