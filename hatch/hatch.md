@@ -55,7 +55,7 @@ Quando se pretende usar as hachuras para representar paginações de piso ou rev
 
 Usando este tipo é possível especificar uma distância fixa entre as linhas, no campo **spacing** do quadro **Angle and scale**.
 
-No mesmo quadro é possível definir o ângulo das linhas no campo **angle**. O campo scale fica desabilitado para tipo **user defined**..
+No mesmo quadro é possível definir o ângulo das linhas no campo **angle**. O campo scale fica desabilitado para tipo **user defined**.
 
 O campo **Double** pode ser usado para retículas de linhas ortogonais quadradas. Para retículas retangulares usa-se a sobreposição de duas hachuras.
 
@@ -74,4 +74,6 @@ clicando no botão ao lado do seletor **Pattern** selecione a aba **Other predef
 
 ![](.\InkedPredefinedHatch.jpg)
 
-No quadro **Angle and scale** 
+No quadro **Angle and scale** é possível determinar o ângulo e a escala das hachuras, mas não é possível determinar distâncias, como no tipo **user defined**
+
+Para ajustar a escala certa para cada padrão do tipo **Predefined**, muitas vezes é necessário experimentar com os valores.
