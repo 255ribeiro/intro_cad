@@ -152,7 +152,7 @@ Grupo de informações (e-mail):
 
 #### Aula 05 - (2/5/2018)
 
-1. [Hachuras](./hacth/hatch.md)
+1. [Hachuras](./hatch/hatch.md)
 
 2. Inserção de blocos
 
