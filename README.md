@@ -152,7 +152,13 @@ Grupo de informações (e-mail):
 
 #### Aula 05 - (2/5/2018)
 
+1. Hachuras
 
+2. Inserção de blocos
+
+3. Plotagem no **model space**
+
+4. Configuração de Textos
 
 1. Referências e Links
 
