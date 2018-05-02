@@ -152,23 +152,37 @@ Grupo de informações (e-mail):
 
 #### Aula 05 - (2/5/2018)
 
-1. Hachuras
+1. [Hachuras](./hacth/hatch.md)
 
 2. Inserção de blocos
 
-3. Plotagem no **model space**
-
-4. Configuração de Textos
+3. Criação e edição de blocos
 
 1. Referências e Links
 
+    - Sites para download de blocos
+
+        [linecad](http://www.linecad.com/cad-drawing/architecture/)
+
+        [cad Blocos](http://www.cadblocos.arq.br/)
+
+        [Deca Cad](https://www.deca.com.br/biblioteca/arquivos-2d-e-3d-para-projetos/)
+
+        [cad blocks](http://www.cad-blocks.net/)
 
 <hr>
 
 #### Aula 06 - (9/5/2018)
 
-1. Referências e Links
+1. Plotagem no model space
 
+1. configuração de textos e margens
+
+1. configuração de penas
+
+1. Arquivo CTB
+
+1. Referências e Links
 
 
 <hr>
@@ -176,7 +190,13 @@ Grupo de informações (e-mail):
 
 #### Aula 07 - (16/5/2018)
 
-1. Referências e Links
+1. Configuração de textos anotativos
+
+2. cofiguração de cotas anotativas
+
+3. Plotagem no PaperSpace
+
+4. Referências e Links
 
 
 <hr>
