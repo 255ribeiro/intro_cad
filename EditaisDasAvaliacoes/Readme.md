@@ -15,7 +15,7 @@
 
       1. Planta de situação,
       2. Plantas baixas dos pavimentos (mínimo 2),
-      3. Corte(s) e Fachada(s),
+      3. Corte(s) e Fachada(s)
 
   * As plantas devem apresentar
 
@@ -27,12 +27,12 @@
      6. símbolos de identificação do desenho.
 
 
-  * O modelo deve ser entregue em formato PDF e Impresso outros formatos devem ser combinados e aprovados pelos professores.
+  * As plantas devem ser entregue em formatos PDF, DWG e Impresso outros formatos devem ser combinados e aprovados pelos professores.
 
   * Os projetos deve ser previamente aprovados pelos professores.
 
 
-  * * As plantas devem estar representadas em escala adequada, aprovada em orientação com os professores.
+  * As plantas devem estar representadas em escala adequada, aprovada em orientação com os professores.
 
 #### Etapa 02 - Modelagem tridimensional
 
