@@ -31,7 +31,6 @@
 
   * Os projetos deve ser previamente aprovados pelos professores.
 
-
   * As plantas devem estar representadas em escala adequada, aprovada em orientação com os professores.
 
 #### Etapa 02 - Modelagem tridimensional
