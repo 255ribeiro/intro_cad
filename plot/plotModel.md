@@ -19,7 +19,7 @@ Abrindo a caixa de dialogo de plotagem existe um botão em forma de seta, clican
 #### Caixa de diálogo Completa
 ![](InkedmodelDiagFull.jpg)
 
-**Use Sempre a caixa de diálogo completa na plotagem**
+**ATENÇÂO - Use Sempre a caixa de diálogo completa na plotagem**
 
 <hr>
 
@@ -62,6 +62,11 @@ No quadro **Plot scale (4- Escala)** ajuste a escala de plotagem. As opções de
 * ajustar as unidades de dsenenho para 1000 mm;
 * ajustar o campo unit para a escala a ser plotada.
 
+#### Configurando escala
 ![](escalaModel.jpg)
 
 <hr>
+
+### Configurando o CTB
+
+No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de configuração de penas e/ou criar um arquivo novo.
