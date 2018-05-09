@@ -20,7 +20,7 @@ Abrindo a caixa de dialogo de plotagem existe um botão em forma de seta, clican
 #### Caixa de diálogo Completa
 ![](InkedmodelDiagFull.jpg)
 
-**ATENÇÂO - Use Sempre a caixa de diálogo completa na plotagem**
+**ATENÇÃO - Use Sempre a caixa de diálogo completa na plotagem**
 
 <hr>
 
@@ -75,7 +75,7 @@ No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de co
 #### Selecionar ou criar CTB
 ![](criarCTB.jpg)
 
-Selecionando a opção de editar é possível aplicar diversos atributos para uma cor do tipo **index Colour**
+Selecionando a opção de editar é possível aplicar diversos atributos para uma cor do tipo **index Color**
 
 #### Selecionar ou criar CTB
 ![](confCTB.jpg)
