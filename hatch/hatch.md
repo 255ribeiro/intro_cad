@@ -2,7 +2,7 @@
 
 O comando de criação de hachuras pode ser acionado pela linha de comando hatch(h) ou pelo ícone da figura abaixo:
 
-![comando hatch no menu ribbon](hatchicone.png)
+![](hatchicone.png)
 
 O comando aciona uma caixa de diálogo ou um menu especial do Ribbon.
 
@@ -10,12 +10,12 @@ a variável do sistema HPDLGMODE controla a exibição da caixa de diálogo. Par
 
 Na caixa de diálogo existe um botão em forma de seta. Ele mostra configurações ocultas na caixa de diálogo.
 
-![caixas de díalogo de hachuras, simples e completa](.\hatch_dia_boxes.png)
+![caixas de díalogo de hachuras, simples e completa](hatch_dia_boxes.png)
 
 Os tipos e padrões de hachura são acessados no quadro superior esquerdo da caixa de diálogo. Na figura a baixo podemos ver que a seleção do tipo de hachura habilita e desabilita opções dos quadros **type and pattern** e **angle and scale**
 
 <hr>
-![](.\hatch_type_options.png)
+![](hatch_type_options.png)
 
 <hr>
 <hr>
@@ -29,7 +29,7 @@ Os tipos e padrões de hachura são acessados no quadro superior esquerdo da cai
 
 <hr>
 
-![](.\hatchSelectBor.png)
+![](hatchSelectBor.png)
 
 <hr>
 
@@ -61,7 +61,7 @@ O campo **Double** pode ser usado para retículas de linhas ortogonais quadradas
 
 No quadro **hatch origin** é possível selecionar o início de uma hachura na opção **specified origin**
 
-![](.\InkedhatchOrigin.jpg)
+![](InkedhatchOrigin.jpg)
 
 <hr>
 <hr>
@@ -72,7 +72,7 @@ Os tipo de hachura predefinidos possibilitam a utilização de padrões de preen
 
 clicando no botão ao lado do seletor **Pattern** selecione a aba **Other predefined** e escolha o padrão **Gravel**
 
-![](.\InkedPredefinedHatch.jpg)
+![](InkedPredefinedHatch.jpg)
 
 No quadro **Angle and scale** é possível determinar o ângulo e a escala das hachuras, mas não é possível determinar distâncias, como no tipo **user defined**
 
