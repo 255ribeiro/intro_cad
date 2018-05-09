@@ -174,7 +174,7 @@ Grupo de informações (e-mail):
 
 #### Aula 06 - (9/5/2018)
 
-1. Plotagem no model space
+1. [Plotagem no model space](.\plot\plotModel.md)
 
 1. configuração de textos e margens
 
