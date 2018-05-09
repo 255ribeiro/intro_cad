@@ -86,9 +86,9 @@ Os ajustes do arquivo CTB prevalecem sobre as configurações de objeto e de Lay
 
 Para o Autocad ler o arquivo CTB ele precisa estar no diretório configurado. Para abrir a pasta do CTB:
 
-    1. clique no Ícone **A** na parte supeior esqueda da tela;
-    2. clique na opção **print**
-    3. clique na opção **Manage Plot Styles**
+1. clique no Ícone **A** na parte supeior esqueda da tela;
+2. clique na opção **print**
+3. clique na opção **Manage Plot Styles**
 
 #### Abrindo pasta dos CTBs
 ![](AbribdoPastaCTB.jpg)
