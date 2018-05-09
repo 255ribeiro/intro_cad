@@ -3,10 +3,11 @@
 ## Caixa de diálogo de plotagem
 
 A caixa de diálogo de plotagem pode ser acionada de várias maneiras:
-    * Ícone da impressora;
-    * linha de comando PLOT;
-    * ícone **A** no lado esquerdo superior da tela > opção print > opção plot;
-    * digitando Ctrl + P
+
+* Ícone da impressora;
+* linha de comando PLOT;
+* ícone **A** no lado esquerdo superior da tela > opção print > opção plot;
+* digitando Ctrl + P
 
 A última me parece ser a mais prática e extremamente comum em diversos programas.
 
