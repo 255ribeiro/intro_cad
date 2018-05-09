@@ -2,7 +2,7 @@
 
 O comando de criação de hachuras pode ser acionado pela linha de comando hatch(h) ou pelo ícone da figura abaixo:
 
-![](hatchicone.png)
+![](hatchIcone.png)
 
 O comando aciona uma caixa de diálogo ou um menu especial do Ribbon.
 
