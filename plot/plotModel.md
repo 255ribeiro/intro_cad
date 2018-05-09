@@ -90,7 +90,12 @@ Para o Autocad ler o arquivo CTB ele precisa estar no diretório configurado. Pa
 2. clique na opção **print**
 3. clique na opção **Manage Plot Styles**
 
+<hr>
+
 #### Abrindo pasta dos CTBs
 ![](AbribdoPastaCTB.jpg)
 
 Copie o arquivo CTB criado e salve na nuvem ou envie por e-mail. Para utilizar o CTB em outro computator, abra a pasta dos CTBs como indicado acima e copie o seu CTB no local.
+
+<hr>
+<hr>
