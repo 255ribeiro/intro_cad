@@ -39,7 +39,7 @@ Em seguida selecione o tamanho de papel no Quadro **Paper Size(2- Tamanho do Pap
 
 <hr>
 ## Tamanho do papel
-![](TamanhoPapel.jpg)
+![](tamanhoPapel.jpg)
 <hr>
 
 As medidas **(a x b)** do papel seguem a relação **Largura x Altura**. Mas essa relação pode ser alterada no **quadro Drawing Orientation (5- Posição)**.
