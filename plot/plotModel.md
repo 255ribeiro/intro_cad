@@ -44,7 +44,7 @@ Em seguida selecione o tamanho de papel no Quadro **Paper Size(2- Tamanho do Pap
 
 As medidas **(a x b)** do papel seguem a relação **Largura x Altura**. Mas essa relação pode ser alterada no **quadro Drawing Orientation (5- Posição)**.
 
-No quadro **Plot area (3- Área de impressão /Acima)** deve-se ajustar a região do Model Space a ser impressa. A opção mais comum é **Window**, que leva para o Model para que uma região retangular de impressão possa ser definida.
+No quadro **Plot area (3- Área de impressão /Acima)** deve-se ajustar a região do Model Space a ser impressa no seletor **what to plot**. A opção mais comum é **Window**, que leva para o Model para que uma região retangular de impressão possa ser definida.
 
 <hr>
 #### Selecionado opção **window**
@@ -55,6 +55,11 @@ No quadro **Plot area (3- Área de impressão /Acima)** deve-se ajustar a regiã
 
 
 No quadro **Plot Offset (3- Área de impressão /Abaixo)** é posível mover a origem da área de impressão. A configuração mais comum nesta caixa é marcar a opção **Center the plot**.
+
+Quando o seletor **what to plot** já está ajustado na opção **Window** a reagião a ser plotada pode ser ajustada clicando no botão **window** ao lado do seletor.
+
+
+![](WindowBotao.jpg)
 
 ## Configurando a escala
 
