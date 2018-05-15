@@ -11,7 +11,7 @@ O comando **text(dt)** cria textos de uma única linha. O comando **mtext(t)** c
 
 ## Caixa de Diálogo de Estilos de Texto.
 
-Para abrir a caixa de diálogo de configuração de textos basta digitar o comando style(st) na linha de comando.
+Para abrir a caixa de diálogo de configuração de textos basta digitar o comando **style(st)** na linha de comando.
 
 ![](textStyleDiag.png)
 
@@ -54,3 +54,6 @@ Como podemos ver no quadro **Styles**, podem existir muitos estilos de texto car
 2. clique no botão **Set Current** na direita da caixa de diálogo.
 
 O estilo ajustado como padrão será utilizado quando para criação de textos até que um outro estilo seja definido como atual (botão **Set Current**).
+
+<hr>
+<hr>
