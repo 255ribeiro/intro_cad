@@ -30,7 +30,7 @@ Os tipos **técnico**, identificados com um símbolo de um compasso, e os tipos 
 
 ![](tiposDeFonte.jpg)
 
-As fontes **técnicas** desenham as letras com linhas simples. Para as fontes técnicas, a espessura de pela da fonte tem forte influência sobre a aparência do texto e deve ser mais grossa quando o texto é maior.
+As fontes **técnicas** desenham as letras com linhas simples. Para as fontes técnicas, a espessura de pena da fonte tem forte influência sobre a aparência do texto e deve ser mais grossa quando o texto é maior.
 
 As fontes **True Type** são fontes padrão do Windows, sua espessura é aumentada ou diminuída automaticamente de acordo com tamanho de impressão da letra.
 
@@ -54,6 +54,27 @@ Como podemos ver no quadro **Styles**, podem existir muitos estilos de texto car
 2. clique no botão **Set Current** na direita da caixa de diálogo.
 
 O estilo ajustado como padrão será utilizado quando para criação de textos até que um outro estilo seja definido como atual (botão **Set Current**).
+
+## Exercício:
+
+1. Criar estilos de texto com as seguintes configurações:
+
+<br>
+
+| Nome |Fonte | Altura | Escala |
+|:-:          |:-:   |:-:  |:-:    |
+| 3.5mm_1_100 |Arial | 3.5 | 1/100 |
+| 3mm_1_100 |Arial | 3.0 | 1/100 |
+| 2.5mm_1_100 |Arial | 2.5 | 1/100 |
+| 2mm_1_100 |Arial | 2.0 | 1/100 |
+| 3.5mm_1_50 |Arial | 3.5 | 1/50 |
+| 3mm_1_50 |Arial | 3.0 | 1/50 |
+| 2.5mm_1_50 |Arial | 2.5 | 1/50 |
+| 2mm_1_50 |Arial | 2.0 | 1/50 |
+
+<br>
+
+2. Escreva o nome dos estilos de texto com os comandos **text(dt)** e **mtext(t)(mt)**
 
 <hr>
 <hr>

@@ -72,8 +72,8 @@ Grupo de informações (e-mail):
 
 1. Comandos de Edição Parte 1
 
-
         fillet(f)
+        chamfer(cha)
         offset(o)
 
         move(m)
@@ -101,8 +101,7 @@ Grupo de informações (e-mail):
 
 #### Aula 03 - (18/4/2018)
 
-1. Organização dos arquivos
-    Camadas (layers)
+1. Organização dos arquivo em camadas (layers)
 
         Layer(la)
 
@@ -116,12 +115,9 @@ Grupo de informações (e-mail):
 
 [Planta Baixa](./Exercicio_02_Cabana_Chamberlain.pdf)
 
-[CORTE E FACHADA](./Exercicio_02_Cabana_Chamberlain02.pdf)
+[Corte E Fachada](./Exercicio_02_Cabana_Chamberlain02.pdf)
 
-[SUBSOLO](./Exercicio_02_Cabana_Chamberlain03.pdf)
-
-
-
+[Subsolo](./Exercicio_02_Cabana_Chamberlain03.pdf)
 
 1. Referências e Links
 
@@ -174,13 +170,15 @@ Grupo de informações (e-mail):
 
 #### Aula 06 - (9/5/2018)
 
-1. [Plotagem no model space](./plot/plotModel.md)
-
 1. configuração de [textos](./textos/configTextos.md) e margens
 
-1. configuração de penas
+1. [Plotagem no model space](./plot/plotModel.md)
 
-1. Arquivo CTB
+    1. Configuração de impressora;
+
+    1. configuração de penas;
+
+    1. arquivo CTB.
 
 1. Referências e Links
 
@@ -190,13 +188,19 @@ Grupo de informações (e-mail):
 
 #### Aula 07 - (16/5/2018)
 
-1. Configuração de textos anotativos
+1. Configuração de [cotas](./cotas/cotas.md)
 
-2. cofiguração de cotas anotativas
+1. Escala anotativa.
 
-3. Plotagem no PaperSpace
+1. Configuração de cotas anotativas.
 
-4. Referências e Links
+1. Configuração de textos anotativos.
+
+1. Blocos anotativos.
+
+1. Plotagem no PaperSpace.
+
+1. Referências e Links
 
 
 <hr>
