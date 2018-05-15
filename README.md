@@ -176,7 +176,7 @@ Grupo de informações (e-mail):
 
 1. [Plotagem no model space](./plot/plotModel.md)
 
-1. configuração de [textos](./plot/plotModel.md) e margens
+1. configuração de [textos](./textos/configTextos.md) e margens
 
 1. configuração de penas
 
