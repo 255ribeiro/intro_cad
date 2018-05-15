@@ -42,7 +42,7 @@ A altura do texto é definida no campo **height** do quadro **Size**.
 
 A opção **Annotative** não será usada neste guia.
 
-Quando ajustado para 0.0000 (zero), o tamanho do texto será configurado na linha de comando. A escala de plotagem deve ser levada em conta quando definimos a altura dos textos. Para criar um texto de altura 3,5mm na escala 1/100, deve-se multiplicar o tamanho do texto na unidade desenho pelo denominador da escala **0.0035 x 100**. Neste caso, o valor **3.5** deve ser digitado no campo **Height**.
+Quando ajustado para 0.0000 (zero), o tamanho do texto será configurado na linha de comando. A escala de plotagem deve ser levada em conta quando definimos a altura dos textos. Para criar um texto de altura 3,5mm na escala 1/100, deve-se multiplicar o tamanho do texto na unidade desenho pelo denominador da escala **0.0035 x 100**. Neste caso, o valor **0.35** deve ser digitado no campo **Height**.
 
 finalize a criação do estilo de texto clicando no botão **Apply** na parte inferior da caixa de diálogo.
 
