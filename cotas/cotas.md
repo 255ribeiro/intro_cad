@@ -41,25 +41,42 @@ Nas configurações das cotas, cinco das sete abas devem ser configuradas:
 
 ![](novaCotaAbas.jpg)
 
+
 ### Lines (A):
+
+No quadro **Dimension Lines** recomenda-se a configuração dos seletores **Color**(A1), **Linetype**(A1) e **Lineweight**(A1) como **Bylayer**. Caso o campo **Extend beyond ticks**(A2) esteja desabilitado, mude os seletores **First**(B1) e **Second**(B2) na caixa **Arrowheads** na aba **Symbols and Arrows**(B) Para um **tick** ou **dot**.
+
+![](elementosCota.png)
+
+A configuração **Baseline spacing**(A3) só funciona com dimensões do tipo **baseline**.
 
 ![](abaLines.jpg)
 
-No quadro **Dimension Lines** recomenda-se a configuração dos seletores **Color**(A1), **Linetype**(A1) e **Lineweight**(A1) como **Bylayer**. Caso o campo **Extend beyond ticks** esteja desabilitado, mude os seletores **First**(B1) e **Second**(B2) na caixa **Arrowheads** na aba **Symbols and Arrows**(B) Para um **tick** ou **dot**.
+
+No quadro **Extension lines** recomenda-se a configuração dos seletores **Color**(A4), **Linetype ext line 1**(A4), **Linetype ext line 2**(A4) e **Lineweight**(A4) como **Bylayer**. Os campos **Extend beyond dim lines**(A5) e **Offset from origin**(A6) como 1 mm.
+
 
 ### Symbols and Arrows (B):
+
+No quadro **Arrowheads** os seletores **First**(B1) e **Second**(B2) servem para selecionar os marcadores das cotas. O seletor **Leader** para escolher a seta da dimensão tipo *leader*. O campo **Arrow size** serve para determinar a escala dos símbolos das cotas (**Arrowheads**).É preciso testar os valores para encontrar a escala ideal.
 
 ![](abaSymb.jpg)
 
 ### Text (C):
 
+No quadro **Text appearance** clique no botão (C1) e configure um estilo de texto chamado cota, com a fonte desejada e a altura do texto **(height)** = 0.000. Depois use o seletor(C2) para utilizar o estilo de texto criado. No campo **Text color** escolha uma cor que imprima preto e com uma espessura pequena no seu CTB(0,1 ou 0,2 mm).
+
+
 ![](abaText.jpg)
 
-
 ### Fit (D):
+
+No quadro **Scale for dimension features**(D3) a opção **Use overall scale of** é responsável pela escala da cota. Para uma cota em **1/100**, o valor do campo deve ser **100/1000 = 0.100**, para **1/50**, **50/1000 = 0.050**...
 
 ![](abaFit.jpg)
 
 ### Primary Units (E):
 
 ![](abaPU.jpg)
+
+#### Finalize a criação do estilo clicando em OK
