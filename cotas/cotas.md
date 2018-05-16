@@ -32,6 +32,34 @@ Para criar uma nova cota clique no Botão **New**(5) para abrir a caixa de diál
 
 ## Configurando um novo estilo de dimensões.
 
-Nas configurações das cotas, cinco das sete abas devem ser configuradas **(A,B,C,D,E)**.
+Nas configurações das cotas, cinco das sete abas devem ser configuradas:
+* **Lines**(A);
+* **Symbols and Arrows**(B);
+* **Text**(C);
+* **Fit**(D);
+* **Primary Units**(E).
 
 ![](novaCotaAbas.jpg)
+
+### Lines (A):
+
+![](abaLines.jpg)
+
+No quadro **Dimension Lines** recomenda-se a configuração dos seletores **Color**(A1), **Linetype**(A1) e **Lineweight**(A1) como **Bylayer**. Caso o campo **Extend beyond ticks** esteja desabilitado, mude os seletores **First**(B1) e **Second**(B2) na caixa **Arrowheads** na aba **Symbols and Arrows**(B) Para um **tick** ou **dot**.
+
+### Symbols and Arrows (B):
+
+![](abaSymb.jpg)
+
+### Text (C):
+
+![](abaText.jpg)
+
+
+### Fit (D):
+
+![](abaFit.jpg)
+
+### Primary Units (E):
+
+![](abaPU.jpg)
