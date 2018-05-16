@@ -26,7 +26,7 @@ Para criar uma nova cota clique no Botão **New**(5) para abrir a caixa de diál
 
 * No campo **New Style Name**(1) digite um nome para seu novo estilo de cota (indique a escala que pretende usar).
 * No campo **Start With**(2) selecione um dos estilos existentes para basear sua configuração.
-* clique no botão **Continue**.
+* clique no botão **Continue**(3).
 
 ##### Obs: Neste guia não será usada a opção *Annotative*.
 
