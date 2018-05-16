@@ -1,13 +1,12 @@
 # Guia de Configuração de cotas (dimensões) no Autocad.
 
-Existem várias formas de configurar cotas no Autocad. A estratégia apresentada neste guia se aplica para arquivos com **metros** como unidade de desenho, utilizando escala de plotagem **1000/x**.
+Existem várias formas de configurar cotas no Autocad. A estratégia apresentada neste guia se aplica para arquivos com **metros** como unidade de desenho, utilizando escala de plotagem **1000/x** no **model space** e margens em **milímetros** no **paper space**.
 
 ## Caixa de diálogo de estilos de dimensões (Dimension Style Manager).
 
 Para abrir a caixa de diálogo de configuração de dimensões **(Dimension Style Manager)** basta digitar o comando **dimstyle(dst)** na linha de comando.
 
 ![](dsm.jpg)
-
 
 Na caixa de diálogo é possível:
 * ver o estilo de dimensão atual em **Current dimension style**(1);
@@ -45,20 +44,15 @@ Nas configurações das cotas, ao menos cinco das sete abas devem ser configurad
 ![](elementosCota.png)
 ##### Principais elementos de um estilo de dimensões
 
-
 ### Lines (A):
 
 No quadro **Dimension Lines** recomenda-se a configuração dos seletores **Color**(A1), **Linetype**(A1) e **Lineweight**(A1) como **Bylayer**. Caso o campo **Extend beyond ticks**(A2) esteja desabilitado, mude os seletores **First**(B1) e **Second**(B2) na caixa **Arrowheads** na aba **Symbols and Arrows**(B) para um **tick** ou **dot**.
-
-
 
 A configuração **Baseline spacing**(A3) só funciona com dimensões do tipo **baseline**.
 
 ![](abaLines.jpg)
 
-
 No quadro **Extension lines** recomenda-se a configuração dos seletores **Color**(A4), **Linetype ext line 1**(A4), **Linetype ext line 2**(A4) e **Lineweight**(A4) como **Bylayer**. Os campos **Extend beyond dim lines**(A5) e **Offset from origin**(A6) como 1 mm.
-
 
 ### Symbols and Arrows (B):
 
