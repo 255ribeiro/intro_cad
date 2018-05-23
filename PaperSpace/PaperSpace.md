@@ -25,7 +25,25 @@ A figura abaixo mostra um trecho da interface do Autocad no **Paper Space**. O �
 
 ![](PaperSpace.jpg)
 
-##### Obs: 
+## Desenhando no Paper Space(Layout).
 
+No **Paper Space** as operações de desenho são executadas da mesma forma que no **Model Space**. Os comandos de desenho, edição e ajuste de camadas são os mesmos.
 
-## Desenhando no Paper Space(Layot).
+Para desenhar as margens do formato A4:
+
+1. Digite o comando **rectangle(rec)** na linha de comando, ou chame o comando pelo ícone.
+1. Clique em um ponto qualquer no **Paper Space**.
+1. Digite na linha de comando, as medidas da margem externa **em milímetros**: **@210,297**.
+1. Use o comando **offset(o)** com distância de 7mm para desenhar a margem interna.
+1. redimensione a margem esquerda para 25mm usando o comando **stretch(s)** ou os **grips**.
+1. coloque as margens interna e externa em layers próprios, com cores correspondentes á espessura de linha de cada margem.
+
+## Trabalhando com Viewports.
+
+Os elementos desenhados no **Model Space** são transpostos para o **Layout** através das **Viewports**. O comando **mview(mv)** é responsável pela criação das **Viewports**. 
+
+## Configurando a Plotagem no Paper Space(Layout).
+
+## Exibindo Cores de Plotagem no Paper Space(Layout).
+
+## Ativando a Exibição de Espessuras de Linha.
