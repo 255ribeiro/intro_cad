@@ -40,10 +40,17 @@ Para desenhar as margens do formato A4:
 
 ## Trabalhando com Viewports.
 
-Os elementos desenhados no **Model Space** são transpostos para o **Layout** através das **Viewports**. O comando **mview(mv)** é responsável pela criação das **Viewports**. 
+Os elementos desenhados no **Model Space** são transpostos para o **Layout** através das **Viewports**. O comando **mview(mv)** é responsável pela criação das **Viewports**.
 
 ## Configurando a Plotagem no Paper Space(Layout).
 
-## Exibindo Cores de Plotagem no Paper Space(Layout).
+As configurações de plotagem no **Paper Space** são basicamente as mesmas do [**Model Space**](.\plot\plotModel.md). Na configuração proposta por este guia, apenas a escala de plotagem, quadro **Plot scale**, deve ser ajutada para **1 mm** x **1 unit**.
 
-## Ativando a Exibição de Espessuras de Linha.
+![](plotscale.png)
+
+
+## Exibindo as configurações do **CTB** no Paper Space(Layout).
+
+
+
+## Ativando a Exibição de Espessura de Linha.

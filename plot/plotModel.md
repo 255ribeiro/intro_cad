@@ -16,8 +16,11 @@ Abrindo a caixa de dialogo de plotagem existe um botão em forma de seta, clican
 <hr>
 
 #### Caixa de diálogo simples
+
 ![](InkedmodelDiagSimp.jpg)
+
 #### Caixa de diálogo Completa
+
 ![](InkedmodelDiagFull.jpg)
 
 **ATENÇÃO - Use Sempre a caixa de diálogo completa na plotagem**
@@ -29,7 +32,9 @@ Abrindo a caixa de dialogo de plotagem existe um botão em forma de seta, clican
 A imagem abaixo mostra os principais quadros da Caixa de diálogo de impressão.
 
 <hr>
+
 #### Principais quadros da caixa de diálogo
+
 ![](PlotConfigura.png)
 <hr>
 
@@ -38,8 +43,11 @@ Comece configurando a impressora no quadro **Pritter/Plotter (1- Impressora)**. 
 Em seguida selecione o tamanho de papel no Quadro **Paper Size(2- Tamanho do Papel)**. Selecione os papeis do tipo **ISO full bleed Ax (... x ... MM)**
 
 <hr>
+
 ## Tamanho do papel
+
 ![](tamanhoPapel.jpg)
+
 <hr>
 
 As medidas **(a x b)** do papel seguem a relação **Largura x Altura**. Mas essa relação pode ser alterada no **quadro Drawing Orientation (5- Posição)**.
@@ -47,10 +55,15 @@ As medidas **(a x b)** do papel seguem a relação **Largura x Altura**. Mas ess
 No quadro **Plot area (3- Área de impressão /Acima)** deve-se ajustar a região do Model Space a ser impressa no seletor **what to plot**. A opção mais comum é **Window**, que leva para o Model para que uma região retangular de impressão possa ser definida.
 
 <hr>
+
 #### Selecionado opção **window**
+
 ![](plotAreaWindow.png)
+
 <hr>
+
 #### Selecionado janela de impressão
+
 ![](WindowSelec.jpg)
 
 
@@ -69,6 +82,7 @@ No quadro **Plot scale (4- Escala)** ajuste a escala de plotagem. As opções de
 * ajustar o campo unit para a escala a ser plotada.
 
 #### Configurando escala
+
 ![](escalaModel.jpg)
 
 <hr>
@@ -78,11 +92,13 @@ No quadro **Plot scale (4- Escala)** ajuste a escala de plotagem. As opções de
 No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de configuração de penas e/ou criar um arquivo novo.
 
 #### Selecionar ou criar CTB
+
 ![](criarCTB.jpg)
 
 Selecionando a opção de editar é possível aplicar diversos atributos para uma cor do tipo **index Color**
 
 #### Selecionar ou criar CTB
+
 ![](confCTB.jpg)
 
 Os elementos serão plotados na cor escolhida no seletor **Color** do **quadro Properties**. A espessura de linhas será determinada pelo seletor **Lineweight** do mesmo quadro. Para Utilizar as penas configuradas no quadro de Layers, configure o seletor **Lineweight** para a opção **use object lineweight**.
@@ -98,6 +114,7 @@ Para o Autocad ler o arquivo CTB ele precisa estar no diretório configurado. Pa
 <hr>
 
 #### Abrindo pasta dos CTBs
+
 ![](AbribdoPastaCTB.jpg)
 
 Copie o arquivo CTB criado e salve na nuvem ou envie por e-mail. Para utilizar o CTB em outro computator, abra a pasta dos CTBs como indicado acima e copie o seu CTB no local.
