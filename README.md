@@ -198,7 +198,7 @@ Grupo de informações (e-mail):
 
 1. Blocos anotativos.
 
-1. Plotagem no PaperSpace.
+1. Trabalhando no [PaperSpace](.\PaperSpace\PaperSpace.md).
 
 1. Referências e Links
 
