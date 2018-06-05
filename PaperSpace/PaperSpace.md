@@ -42,6 +42,8 @@ Para desenhar as margens do formato A4:
 
 Os elementos desenhados no **Model Space** são transpostos para o **Layout** através das **Viewports**. O comando **mview(mv)** é responsável pela criação das **Viewports**. Digitando o atalho **mv** na linha de comando, pode-se clicar em dois vértices opostos e definir a os limites de uma **viewport** retangular.
 
+
+
 A **viewport** é uma janela para o **Model Space** dentro do **Paper Space**. Selecionando uma **viewport** é possível ajustar uma escala nos controles de escala anotativa na parte inferior da tela.
 
 ## Configurando a Plotagem no Paper Space(Layout).
