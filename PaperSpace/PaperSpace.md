@@ -77,4 +77,4 @@ A exibição das espessuras de linhas podem ser ativadas e desativadas pela vari
 
 Quando o botão está azul as espessuras de linha estão ativadas, quando branco a exibição está desativada.
 
-Digitando **LWDISPLAY** na linha de comando pode-se ativar a exibição digitando em seguida **ON** 0u **1**, e desativada digitando **OFF** ou **0**.
+Digitando **LWDISPLAY** na linha de comando pode-se ativar a exibição digitando em seguida **ON** 0u **1**, e desativar digitando **OFF** ou **0**.
