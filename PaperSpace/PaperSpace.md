@@ -42,8 +42,6 @@ Para desenhar as margens do formato A4:
 
 Os elementos desenhados no **Model Space** são transpostos para o **Layout** através das **Viewports**. O comando **mview(mv)** é responsável pela criação das **Viewports**. Digitando o atalho **mv** na linha de comando, pode-se clicar em dois vértices opostos e definir a os limites de uma **viewport** retangular.
 
-
-
 A **viewport** é uma janela para o **Model Space** dentro do **Paper Space**. Selecionando uma **viewport** é possível ajustar uma escala nos controles de escala anotativa na parte inferior da tela.
 
 ## Configurando a Plotagem no Paper Space(Layout).
@@ -55,6 +53,28 @@ As configurações de plotagem no **Paper Space** são basicamente as mesmas do 
 
 ## Exibindo as configurações do **CTB** no Paper Space(Layout).
 
+Para exibir as cores configuradas para plotagem no CTB (ao invés das cores dos layers) deves-se seguir os seguintes passos:
 
+* Abra a caixa de diálogo **Page Setup Manager** clicando com o botão direito em uma aba de layout e em seguida clicando na opção **Page Setup Manager** ou digitando **PAGESETUP** na linha de comando.
+
+![](pageSetup.jpg)
+
+* Na caixa de diálogo **Page Setup Manager** selecione o Layout que deseja ativar a exibição de configurações do CTB e clique no botão **Modify**.
+
+![](pageSetupManager.jpg)
+
+* A caixa de Diálogo **Page Setup** do **Layout** selecionado é aberta. Nesta caixa pode-se Configurar a plotagem da mesma forma que se faz na caixa de diálogo **Plot**(Ctrl + P), embora não exista a opção de plotar. A opção **Display Plot Styles**, entretanto é exibida apenas nesta caixa. clique na opção **Display Plot Styles** e em seguida clique no botão **OK** para salvar a alteração.
+
+![](pageSetupDiag.jpg)
+
+As operações descritas acima devem ser executadas para cada **Layout**. As demais configurações de plotagem podem ser configuradas tanto na caixa de diálogo  **Page Setup** do **Layout** selecionado quanto na caixa de diálogo **Plot**(Ctrl + P).
 
 ## Ativando a Exibição de Espessura de Linha.
+
+A exibição das espessuras de linhas podem ser ativadas e desativadas pela variável do sistema **LWDISPLAY** ou pelo botão de mesmo nome na parte inferior da tela.
+
+![](botaoLW.jpg)
+
+Quando o botão está azul as espessuras de linha estão ativadas, quando branco a exibição está desativada.
+
+Digitando **LWDISPLAY** na linha de comando pode-se ativar a exibição digitando em seguida **ON** 0u **1**, e desativada digitando **OFF** ou **0**.
