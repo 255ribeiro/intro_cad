@@ -2,6 +2,8 @@
 
 Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
+Prof. Beth Soares \| bethsoaress@gmail.com
+
 
 
 <hr>
