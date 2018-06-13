@@ -1,5 +1,6 @@
 *.tmp
 
+*libre office lock file
 .~lock*
 
 # Word temporary
@@ -17,3 +18,6 @@
 # Visio autosave temporary files
 *.~vsd*
 .bak
+
+# Rhino lock file
+.RHL
