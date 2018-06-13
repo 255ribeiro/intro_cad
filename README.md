@@ -259,9 +259,13 @@ Grupo de informações (e-mail):
 
 #### Aula 12 - (20/6/2018)
 
+1. Templates
+
+1. Rebuild curve e surface
+
 
 1. Referências e Links
-
+    - [Víde de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
 <hr>
 
