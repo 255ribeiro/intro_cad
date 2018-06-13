@@ -23,4 +23,4 @@ Navegue até o arquivo criado e clique no botão **Abrir**
 
 As equivalências entre os atalhos importados e os atalhos padrão do **Autocad** podem ser conferidos no arquivo abaixo:
 
-[Atalhos importados](atalhosCadRhino.pdf)
+[lista de atalhos importados](atalhosCadRhino.pdf)
