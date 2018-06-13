@@ -2,7 +2,7 @@
 
 O Rhinoceros3D vem com poucos atalhos configurados previamente. Baixe o arquivo de atalhos no link abaixo:
 
-[atalhos](info1AtalhosRhino.txt)
+[Atalhos](info1AtalhosRhino.txt)
 
 
 Para adicionar atalhos, clique no menu **Tools** e, em seguida, na opção **Options** paara abrir a caixa de diálogo de opções.
