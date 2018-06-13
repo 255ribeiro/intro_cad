@@ -237,7 +237,17 @@ Grupo de informações (e-mail):
 
 1. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
 
+1. Desenhando curvas
+
+1. Primitivas 3D
+    - Operações Booleanas
+
+1. GumBall
+
+
 1. Referências e Links
+
+    - [Tutorial Rhino Modelagem 3D](https://www.youtube.com/watch?v=NKkXMKKA_Cs&list=PL68tctImfhCR2zFIxzEs95v5ETSXe9r14)
 
 
 <hr>
