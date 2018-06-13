@@ -19,6 +19,8 @@ Na caixa de diálogo de opções, escolha **Aliases** em **Rhino Options** e cli
 
 Navegue até o arquivo criado e clique no botão **Abrir**
 
+![](importAli.jpg)
+
 As equivalências entre os atalhos importados e os atalhos padrão do **Autocad** podem ser conferidos no arquivo abaixo:
 
 [Atalhos importados](atalhosCadRhino.pdf)
