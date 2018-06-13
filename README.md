@@ -216,12 +216,16 @@ Grupo de informações (e-mail):
 
 #### Aula 09 - (30/5/2018)
 
+1. Orientação do Trabalho
+
 1. Referências e Links
 
 <hr>
 
 
-#### Aula 10 - (6/6/2018)
+#### Aula 10 - (6/6/2018
+
+1. Entrega  do Trabalho
 
 
 1. Referências e Links
