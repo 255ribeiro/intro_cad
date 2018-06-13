@@ -99,3 +99,9 @@ ic interpCrv
 c circle
 la layer
 div divide
+rb rebuild
+bu booleanUnion
+bd BooleanDifference
+bi BooleanIntersection
+bs booleansplit
+b2 Boolean2objects
