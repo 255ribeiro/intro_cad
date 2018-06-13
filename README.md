@@ -1,8 +1,8 @@
 # Informática e Desenho I
 
-Prof. Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
+Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Prof. Beth Soares \| bethsoaress@gmail.com
+Beth Soares \| bethsoaress@gmail.com
 
 
 
@@ -200,8 +200,6 @@ Grupo de informações (e-mail):
 
 1. Blocos anotativos.
 
-1. Trabalhando no [PaperSpace](./PaperSpace/PaperSpace.md).
-
 1. Referências e Links
 
 
@@ -209,9 +207,9 @@ Grupo de informações (e-mail):
 
 #### Aula 08 - (23/5/2018)
 
+1. Trabalhando no [PaperSpace](./PaperSpace/PaperSpace.md).
+
 1. Referências e Links
-
-
 
 
 <hr>
@@ -233,6 +231,11 @@ Grupo de informações (e-mail):
 
 
 #### Aula 11 - (13/6/2018)
+1. Modelagem 3D no Rhinoceros3D
+
+1. Interface
+
+1. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
 
 1. Referências e Links
 
