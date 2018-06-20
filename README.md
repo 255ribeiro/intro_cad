@@ -248,6 +248,7 @@ Grupo de informações (e-mail):
 
 1. GumBall
 
+1. Operações Booleanas
 
 1. Referências e Links
 
@@ -259,25 +260,56 @@ Grupo de informações (e-mail):
 
 #### Aula 12 - (20/6/2018)
 
-1. Templates
+1. Transformações de sólidos
 
-1. Rebuild curve e surface
+    * extrusão de curvas ExtrudeCrv(ec)
+    * extrusão de superfícies ExtrudeSrf(ef)
+    * Dividir superfície Splitface(sf)
+    * Mover superfície Moveface(mf)
+    * Mover aresta MoveEdge(me)
+    * Gumball Scale
 
 
 1. Referências e Links
-    - [Víde de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
 <hr>
 
 
 #### Aula 13 - (27/6/2018)
 
-1. Referências e Links
 
+1. Templates
+
+1. Varredura
+
+    - Sweep 1 Rail (s1)
+    - Sweep 2 Rails (s2)
+
+1. Superfícies de revolução
+
+    - Revolve (RV)
+    - Rail Revolve (RR)
+
+1. Mescla
+
+    - Loft (LO)
+
+1. Modelagem Paramétrica
+
+1. 1. Referências e Links
+    - [Víde de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
 <hr>
 
 #### Aula 14 - (4/7/2018)
+
+1. Rebuild curve e surface
+
+1. Modelagem por Pontos de controle
+
+1. Simetria
+
+1. Transformando Superfícies em sólidos
 
 1. Referências e Links
 
@@ -286,19 +318,39 @@ Grupo de informações (e-mail):
 
 #### Aula 15 - (11/7/2018)
 
+1. modelagem de terrenos
+
+    - patch
+
+1. Render Básico
+
 1. Referências e Links
 
 <hr>
 
 #### Aula 16 - (18/7/2018)
 
+1. Orientação de trabalhos
+
 1. Referências e Links
 
 
 <hr>
 
 
-#### Aula 16 - (18/7/2018)
+#### Aula 17 - (25/7/2018)
+
+1. Orientação de trabalhos
+
+1. Referências e Links
+
+<hr>
+<hr>
+
+
+#### Aula 17 - (01/08/2018)
+
+Entrega dos trabalhos
 
 1. Referências e Links
 
