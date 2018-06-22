@@ -269,6 +269,21 @@ Grupo de informações (e-mail):
     * Mover aresta MoveEdge(me)
     * Gumball Scale
 
+1. Modelagem de superfícies
+
+    1. Varredura
+
+        - Sweep1 (s1)
+        - Sweep2 (s2)
+
+    1. Superfícies de revolução
+
+        - Revolve (RV)
+        - Rail Revolve (RR)
+
+    1. Mescla
+
+        - Loft (LO)
 
 1. Referências e Links
 
@@ -280,19 +295,9 @@ Grupo de informações (e-mail):
 
 1. Templates
 
-1. Varredura
+1. modelagem de terrenos
 
-    - Sweep 1 Rail (s1)
-    - Sweep 2 Rails (s2)
-
-1. Superfícies de revolução
-
-    - Revolve (RV)
-    - Rail Revolve (RR)
-
-1. Mescla
-
-    - Loft (LO)
+    - patch
 
 1. Modelagem Paramétrica
 
@@ -317,10 +322,6 @@ Grupo de informações (e-mail):
 
 
 #### Aula 15 - (11/7/2018)
-
-1. modelagem de terrenos
-
-    - patch
 
 1. Render Básico
 
