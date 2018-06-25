@@ -4,13 +4,12 @@ Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 Beth Soares \| bethsoaress@gmail.com
 
-
-
 <hr>
 
 Grupo de informações (e-mail):
 
 [https://groups.google.com/forum/#!forum/20181-informtica-e-desenho-1](https://groups.google.com/forum/#!forum/20181-informtica-e-desenho-1)
+
 <hr>
 
 ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
@@ -20,7 +19,6 @@ Grupo de informações (e-mail):
 ## Plano de Aulas
 
 <hr>
-
 
 ### Aula 01 - (4/4/2018)
 
@@ -65,8 +63,6 @@ Grupo de informações (e-mail):
 
    [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
 
-
-
 <hr>
 
 ### Aula 02 - (11/4/2018)
@@ -94,7 +90,6 @@ Grupo de informações (e-mail):
 1. Referências e Links
 
 <hr>
-
 
 ### Aula 03 - (18/4/2018)
 
@@ -323,7 +318,6 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
 <hr>
 
 ### Aula 17 - (01/08/2018)
