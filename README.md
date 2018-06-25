@@ -283,7 +283,7 @@ Grupo de informações (e-mail):
     * Grasshopper
 
 1. Referências e Links
-    * [Víde de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
+    * [Vídeo de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
 <hr>
 
