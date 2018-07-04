@@ -252,7 +252,7 @@ ___
     * Dividir superfície Splitface(sf)
     * Mover superfície Moveface(mf)
     * Mover aresta MoveEdge(me)
-    * Gumball Scale
+    * Gumball
 
 1. Modelagem de superfícies
 
