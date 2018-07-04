@@ -67,21 +67,29 @@ ___
 
 ### Aula 02 - (11/4/2018)
 
+1. Comandos de criação 2D
+
+      * line (L)
+      * polyline (PL)
+      * circle (C)
+      * arc ()
+
 1. Comandos de Edição Parte 1
 
-        fillet(f)
-        chamfer(cha)
-        offset(o)
+        fillet(F)
+        chamfer(CHA)
+        offset(O)
 
-        move(m)
-        copy(co)
-        mirror(mi)
-        rotate(ro)
+        move(M)
+        copy(CO)
+        mirror(MI)
+        rotate(RO)
+        scale(SC)
 
 1. Comandos de Ponto e divisão
 
-        point(po)
-        divide(div)
+        point(PO)
+        divide(DIV)
         measure(ME)
         ptype(PT)
 
@@ -95,12 +103,13 @@ ___
 
 1. Organização dos arquivo em camadas (layers)
 
-        Layer(la)
+        Layer(LA)
 
 1. Comandos de edição parte 2
 
-        Trim(tr)
-        extend(ex)
+        Trim(TR)
+        extend(EX)
+        streach(S)
 
 1. Exercício
 
