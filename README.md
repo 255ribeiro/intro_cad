@@ -300,8 +300,6 @@ Grupo de informações (e-mail):
     * implicity History
     * Grasshopper
 
-
-
 1. Referências e Links
 
 <hr>
