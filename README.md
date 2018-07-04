@@ -269,7 +269,7 @@ Grupo de informações (e-mail):
 
 1. Templates
 
-    *[exemplo template](./TEMPLETE_INFO01.3dm)
+    * [exemplo template](./TEMPLETE_INFO01.3dm)
 
 1. modelagem de terrenos
 
@@ -277,24 +277,30 @@ Grupo de informações (e-mail):
 
     * patch
 
-1. Modelagem Paramétrica
-    * implicity History
-    * Grasshopper
+1. Rebuild curve e surface
+
+    1. Modelagem por Pontos de controle
+
+    1. Simetria
+
+    1. Transformando Superfícies em sólidos
 
 1. Referências e Links
     * [Vídeo de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
+
+    *[Comando Patch](https://www.youtube.com/watch?v=nrizjM3v3Kw)
+
+    * [Comando Patch](https://www.youtube.com/watch?v=A4fVlz5waRM)
 
 <hr>
 
 ### Aula 14 - (4/7/2018)
 
-1. Rebuild curve e surface
+1. Modelagem Paramétrica
+    * implicity History
+    * Grasshopper
 
-1. Modelagem por Pontos de controle
 
-1. Simetria
-
-1. Transformando Superfícies em sólidos
 
 1. Referências e Links
 
