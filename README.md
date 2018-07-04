@@ -4,21 +4,21 @@ Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 Beth Soares \| bethsoaress@gmail.com
 
-<hr>
+___
 
 Grupo de informações (e-mail):
 
 [https://groups.google.com/forum/#!forum/20181-informtica-e-desenho-1](https://groups.google.com/forum/#!forum/20181-informtica-e-desenho-1)
 
-<hr>
+___
 
 ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
 
-<hr>
+___
 
 ## Plano de Aulas
 
-<hr>
+___
 
 ### Aula 01 - (4/4/2018)
 
@@ -53,17 +53,17 @@ Grupo de informações (e-mail):
 
 1. Exercício
 
-    [Coordenadas cartesianas e polares](./Exercicio_01_Coordenadas.pdf)    
+    * [Coordenadas cartesianas e polares](./Exercicio_01_Coordenadas.pdf)
 
 1. Referências e Links
 
    * instalação
 
-   [https://www.youtube.com/watch?v=ozPfHO50jwo](https://www.youtube.com/watch?v=ozPfHO50jwo)
+   * [https://www.youtube.com/watch?v=ozPfHO50jwo](https://www.youtube.com/watch?v=ozPfHO50jwo)
 
-   [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
+   * [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
 
-<hr>
+___
 
 ### Aula 02 - (11/4/2018)
 
@@ -89,7 +89,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 03 - (18/4/2018)
 
@@ -112,7 +112,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 04 - (25/4/2018)
 
@@ -131,7 +131,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 05 - (2/5/2018)
 
@@ -153,7 +153,7 @@ Grupo de informações (e-mail):
 
         [cad blocks](http://www.cad-blocks.net/)
 
-<hr>
+___
 
 ### Aula 06 - (9/5/2018)
 
@@ -169,7 +169,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 07 - (16/5/2018)
 
@@ -185,7 +185,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 08 - (23/5/2018)
 
@@ -193,7 +193,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 09 - (30/5/2018)
 
@@ -201,7 +201,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 10 - (6/6/2018
 
@@ -209,7 +209,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 11 - (13/6/2018)
 
@@ -232,7 +232,7 @@ Grupo de informações (e-mail):
 
     * [Tutorial Rhino Modelagem 3D](https://www.youtube.com/watch?v=NKkXMKKA_Cs&list=PL68tctImfhCR2zFIxzEs95v5ETSXe9r14)
 
-<hr>
+___
 
 ### Aula 12 - (20/6/2018)
 
@@ -263,7 +263,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 13 - (27/6/2018)
 
@@ -292,7 +292,7 @@ Grupo de informações (e-mail):
 
     * [Comando Patch video 02](https://www.youtube.com/watch?v=A4fVlz5waRM)
 
-<hr>
+___
 
 ### Aula 14 - (4/7/2018)
 
@@ -302,7 +302,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 15 - (11/7/2018)
 
@@ -310,7 +310,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 16 - (18/7/2018)
 
@@ -318,7 +318,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 17 - (25/7/2018)
 
@@ -326,7 +326,7 @@ Grupo de informações (e-mail):
 
 1. Referências e Links
 
-<hr>
+___
 
 ### Aula 17 - (01/08/2018)
 
@@ -334,5 +334,5 @@ Entrega dos trabalhos
 
 1. Referências e Links
 
-<hr>
-<hr>
+___
+___
