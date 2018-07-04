@@ -269,7 +269,11 @@ Grupo de informações (e-mail):
 
 1. Templates
 
+    *[exemplo template](./TEMPLETE_INFO01.3dm)
+
 1. modelagem de terrenos
+
+    * [exemplo terrenos](./terreno_exemplos.zip)
 
     * patch
 
