@@ -53,6 +53,9 @@ ___
 
 1. Exercício
 
+        line (L)
+        polyline (PL)
+
     * [Coordenadas cartesianas e polares](./Exercicio_01_Coordenadas.pdf)
 
 1. Referências e Links
