@@ -288,9 +288,9 @@ Grupo de informações (e-mail):
 1. Referências e Links
     * [Vídeo de configuração dos Templates](http://tips.rhino3d.com/2014/02/templates-defaults-in-rhino.html)
 
-    *[Comando Patch](https://www.youtube.com/watch?v=nrizjM3v3Kw)
+    * [Comando Patch vídeo 01](https://www.youtube.com/watch?v=nrizjM3v3Kw)
 
-    * [Comando Patch](https://www.youtube.com/watch?v=A4fVlz5waRM)
+    * [Comando Patch video 02](https://www.youtube.com/watch?v=A4fVlz5waRM)
 
 <hr>
 
