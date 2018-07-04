@@ -69,10 +69,10 @@ ___
 
 1. Comandos de criação 2D
 
-        * line (L)
-        * polyline (PL)
-        * circle (C)
-        * arc ()
+        line (L)
+        polyline (PL)
+        circle (C)
+        arc (A)
 
 1. Comandos de Edição Parte 1
 
