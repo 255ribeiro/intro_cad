@@ -78,4 +78,4 @@ No quadro **Scale for dimension features**(D3) a opção **Use overall scale of*
 
 ![Aba Primary Units](abaPU.jpg)
 
-#### Finalize a criação do estilo clicando em OK
+### Finalize a criação do estilo clicando em OK
