@@ -1,7 +1,8 @@
 # Avaliação da Disciplina Informática e Desenho I
 
-### informações gerais:
-  * A Avaliação será dividida em duas etapas
+## informações gerais
+
+* A Avaliação será dividida em duas etapas
 
       1. Representação do projeto
 
@@ -9,9 +10,9 @@
 
   * As datas de entrega das etapas estão apresentadas no plano de curso da disciplina.
 
-#### Etapa 01 - Representação do projeto
+### Etapa 01 - Representação do projeto
 
-  * Criar um conjunto de plantas contendo
+* Criar um conjunto de plantas contendo
 
       1. Planta de situação,
       2. Plantas baixas dos pavimentos (mínimo 2),
@@ -26,18 +27,18 @@
      5. cotas de nível,
      6. símbolos de identificação do desenho.
 
-
   * As plantas devem ser entregue em formatos PDF, DWG e Impresso outros formatos devem ser combinados e aprovados pelos professores.
 
   * Os projetos deve ser previamente aprovados pelos professores.
 
   * As plantas devem estar representadas em escala adequada, aprovada em orientação com os professores.
 
-#### Etapa 02 - Modelagem tridimensional
+### Etapa 02 - Modelagem tridimensional
 
-  * A Modelagem tridimensional de um projeto, obra de arquitetura. Podendo ser o mesmo projeto da etapa anterior.
+* A Modelagem tridimensional de um projeto, obra de arquitetura. Podendo ser o mesmo projeto da etapa anterior.
 
-  * Os arquivos e imagens geradas devem ser entregues pessoalmente ou enviados por meio digital.
+* Os arquivos e imagens geradas devem ser entregues pessoalmente ou enviados por meio digital.
 
-##### Cada etapa de avaliação vale 10 pontos.
-##### A nota final da disciplina será a média aritmética das notas das duas etapas.
+#### Cada etapa de avaliação vale 10 pontos
+
+#### A nota final da disciplina será a média aritmética das notas das duas etapas
