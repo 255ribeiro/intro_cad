@@ -2,9 +2,9 @@
 
 O **Grasshopper** é um *plugin* do *Rhinoceros 3D* que habilita modelagem paramétrica em um ambiente baseado em nós.
 
-* Para instalar o grasshoper no *Rhinoceros 5* siga as [instruções](https://255ribeiro.github.io/LPACAF/guia_install/)
+* Para instalar o **Grasshoper** no **Rhinoceros 5** siga as [instruções](https://255ribeiro.github.io/LPACAF/guia_install/)
 
-* No *Rhinoceros 6* o Grasshopper é instalado junto com o programa.
+* No **Rhinoceros 6** o **Grasshopper** é instalado junto com o programa.
 
 * Para adicionar componentes ao grasshopper, visite o site [food4rhino](http://www.food4rhino.com/).
 
