@@ -68,23 +68,57 @@ Com um clique duplo na parte esquerda do **Slider**, altere o valor da opção *
 
 ### Criando uma Linha Entre os Pontos
 
+![line](line1.png)
+
 Na aba **Curve**, no painel **Primitive**, selecione o componente **Line**. Conecte a saída do componente **Point** na entrada **Start Point** do componente **Line** e a saída **Geometry** do componente **Move** na entrada **End Point** do componente **Line**.
+
+![line 2](line2.png)
 
 ### Criando uma Coluna (Elemento Tubular) a Partir de uma Linha
 
+![pipe1](pipe1.png)
+
 Na aba **Surface**, no painel **Freeform**, selecione o componente **Pipe**. Concete a saída do componente **Line** na entrada **Curve** do componente **Pipe**. Conecte um **Slider** na entrada **Radius** do componente **Pipe**. Na entrada **Cap** do componente **Pipe**, clique com o botão direito e selecione a opção **Flat**.
+
+![pipe2](pipe2.png)
 
 ### Criando Colunas a Partir de uma Curva
 
-na interface do **Rhinoceros** desenhe uma reta (line) ou uma curva.
+Na interface do **Rhinoceros** desenhe um segmento de reta (line) ou uma curva.
 
-Na aba **params**, no painel **Geometry**, selecione o componente **Curve**. Clique com o botão direito no componente e selecione a curva na interface do rhinoceros clicando sobre a curva desenhada.
+Na aba **params**, no painel **Geometry**, selecione o componente **Curve**.
 
-Na aba **Curve**, no painel **Division** selecione o componente **Divide Curve**. Conecte a saída do componente **Curve** na entrada **Curve** do componente **Divide Curve**.
+![curve1](curve1.png)
 
-Na aba **Params**, no painel **Input** selecione a opção **Slider**. com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **R** para **N** e a opção **Max** para 100 e clique em **Ok**. Conecte a saída do **Slider** com a entrada **Count** do componente **Divide Curve**.
+Clique com o botão direito no componente e selecione a curva na interface do **Rhinoceros** clicando sobre a curva desenhada.
+
+![curve2](curve2.png)
+
+Na aba **Curve**, no painel **Division** selecione o componente **Divide Curve**.
+
+![Divide Curve1](divideCurve1.png)
+
+Conecte a saída do componente **Curve** na entrada **Curve** do componente **Divide Curve**.
+
+![Divide Curve 2](divideCurve2.png)
+
+Na aba **Params**, no painel **Input** selecione a opção **Slider**.
+
+![slider int 1](sliderInt1.png)
+
+Com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **R** para **N** e a opção **Max** para 100 e clique em **Ok**.
+
+![slider int 2](sliderint2.jpg)
+
+Conecte a saída do **Slider** com a entrada **Count** do componente **Divide Curve**.
+
+![slider int 3](sliderInt3.png)
 
 Conecte a saída **Points** do componente **Divide Curve** á entrada do componente **Point**.
+
+![points point](Points_Point.png)
+
+Algoritmo final
 
 ![exemplo01](exemplo01.png)
 
