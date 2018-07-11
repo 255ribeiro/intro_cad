@@ -22,7 +22,7 @@ A aba **Params** contem os componetes de entrada do grasshopper.
 
 ## Iniciando uma definição
 
-[Introdução Arquivo base](Grasshopper_introdução.gh)
+[Introdução: Arquivo base](Grasshopper_introdução.gh)
 
 Para iniciar uma definição no **Grashopper** clique no componete point da aba **Params** no painel **Geometry**. Clique na tela de trabalho(*canvas*) para posicionar o componete no editor de código.
 
@@ -46,9 +46,9 @@ Para mover(copiar) o ponto em uma direção sentido e distância específica, cl
 
 Arraste a saida á esquerda do componente **Point** e concete com a entrada **Geometry** do componente **Move**. Com isso o ponto será movido na distância e direção *default* do componente (10 unidades na direção do eixo Z).
 
-### definindo direção de distância
+### Definindo Direção de Distância
 
-
+### Criando Colunas a partir de uma curva
 
 ## Exemplos
 

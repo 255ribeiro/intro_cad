@@ -310,7 +310,7 @@ ___
 
 1. Modelagem Paramétrica
     * implicity History
-    * Grasshopper
+    * [Grasshopper](./grasshopper_intro/gh_intro.md)
 
 1. Referências e Links
 
