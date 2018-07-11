@@ -44,13 +44,27 @@ Digite as coordeandas 0,0,1 e pressione **enter** para voltar á interface do **
 
 Para mover(copiar) o ponto em uma direção sentido e distância específica, clique a aba **Trasnform**, no painel **Euclidean**, selecione o componente **Move**.
 
+![move](MoveComp.png)
+
 Arraste a saida á esquerda do componente **Point** e concete com a entrada **Geometry** do componente **Move**. Com isso o ponto será movido na distância e direção *default* do componente (10 unidades na direção do eixo Z).
+
+![Move Geometry](MoveConect.png)
+
+![Move Geometry 2](move2.png)
 
 ### Definindo Direção de Distância
 
 Para definir uma direção, na aba **Vector**, no painel **Vector**, selecione o componente **Unit Z**. conecte a saida do componente a entrada **Motion** do componente **Move**.
 
-O componente **Unit Z** é um versor (vetor unitário) na direção Z. Para definir a distância, na aba **Params**, no painel **Input** selecione a opção **Slider**. com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **MAx** para 100 e clique em **Ok**. Conecte a saída do **Slider** na entrada do componente **Unit Z**.
+![Unit z](unitZ.png)
+
+O componente **Unit Z** é um versor (vetor unitário) na direção Z. Para definir a distância, na aba **Params**, no painel **Input** selecione a opção **Slider**.
+
+![Slider 1](slider1.png)
+
+Com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **MAx** para 100 e clique em **Ok**. Conecte a saída do **Slider** na entrada do componente **Unit Z**.
+
+![Edit Slider](editSlider.png)
 
 ### Criando uma Linha Entre os Pontos
 
@@ -71,6 +85,8 @@ Na aba **Curve**, no painel **Division** selecione o componente **Divide Curve**
 Na aba **Params**, no painel **Input** selecione a opção **Slider**. com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **R** para **N** e a opção **Max** para 100 e clique em **Ok**. Conecte a saída do **Slider** com a entrada **Count** do componente **Divide Curve**.
 
 Conecte a saída **Points** do componente **Divide Curve** á entrada do componente **Point**.
+
+![exemplo01](exemplo01.png)
 
 ## Exemplos
 
