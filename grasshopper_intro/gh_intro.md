@@ -2,7 +2,7 @@
 
 O **Grasshopper** é um *plugin* do *Rhinoceros 3D* que habilita modelagem paramétrica em um ambiente baseado em nós.
 
-* para instalar o grasshoper no *Rhinoceros 5* siga as [instruções](https://255ribeiro.github.io/LPACAF/guia_install/)
+* Para instalar o grasshoper no *Rhinoceros 5* siga as [instruções](https://255ribeiro.github.io/LPACAF/guia_install/)
 
 * No *Rhinoceros 6* o Grasshopper é instalado junto com o programa.
 
@@ -24,7 +24,7 @@ A aba **Params** contem os componetes de entrada do grasshopper.
 
 [Introdução: Arquivo base](Grasshopper_introdução.gh)
 
-Para iniciar uma definição no **Grashopper** clique no componete point da aba **Params** no painel **Geometry**. Clique na tela de trabalho(*canvas*) para posicionar o componete no editor de código.
+Para iniciar uma definição no **Grashopper** clique no componete **Point** da aba **Params** no painel **Geometry**. Clique na tela de trabalho(*canvas*) para posicionar o componete no editor de código.
 
 ![Componente Point](pointComp.jpg)
 
@@ -48,9 +48,29 @@ Arraste a saida á esquerda do componente **Point** e concete com a entrada **Ge
 
 ### Definindo Direção de Distância
 
+Para definir uma direção, na aba **Vector**, no painel **Vector**, selecione o componente **Unit Z**. conecte a saida do componente a entrada **Motion** do componente **Move**.
 
+O componente **Unit Z** é um versor (vetor unitário) na direção Z. Para definir a distância, na aba **Params**, no painel **Input** selecione a opção **Slider**. com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **MAx** para 100 e clique em **Ok**. Conecte a saída do **Slider** na entrada do componente **Unit Z**.
 
-### Criando Colunas a partir de uma curva
+### Criando uma Linha Entre os Pontos
+
+Na aba **Curve**, no painel **Primitive**, selecione o componente **Line**. Conecte a saída do componente **Point** na entrada **Start Point** do componente **Line** e a saída **Geometry** do componente **Move** na entrada **End Point** do componente **Line**.
+
+### Criando uma Coluna (Elemento Tubular) a Partir de uma Linha
+
+Na aba **Surface**, no painel **Freeform**, selecione o componente **Pipe**. Concete a saída do componente **Line** na entrada **Curve** do componente **Pipe**. Conecte um **Slider** na entrada **Radius** do componente **Pipe**. Na entrada **Cap** do componente **Pipe**, clique com o botão direito e selecione a opção **Flat**.
+
+### Criando Colunas a Partir de uma Curva
+
+na interface do **Rhinoceros** desenhe uma reta (line) ou uma curva.
+
+Na aba **params**, no painel **Geometry**, selecione o componente **Curve**. Clique com o botão direito no componente e selecione a curva na interface do rhinoceros clicando sobre a curva desenhada.
+
+Na aba **Curve**, no painel **Division** selecione o componente **Divide Curve**. Conecte a saída do componente **Curve** na entrada **Curve** do componente **Divide Curve**.
+
+Na aba **Params**, no painel **Input** selecione a opção **Slider**. com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **R** para **N** e a opção **Max** para 100 e clique em **Ok**. Conecte a saída do **Slider** com a entrada **Count** do componente **Divide Curve**.
+
+Conecte a saída **Points** do componente **Divide Curve** á entrada do componente **Point**.
 
 ## Exemplos
 
