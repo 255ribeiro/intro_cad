@@ -34,7 +34,7 @@ Com o componete **Point** posicionado, clique com o botão direito no componente
 
 A opção **Set One Point** alterna para a nterface do **Rhino**, permitindo a seleção de um ponto por coordenadas, por um ponto desenhado na interface do **Rhino** ou um ponto sobre uma curva. Caso a opção *Coordinates* não esteja aparecendo na linha de comando, clique sobre o texto **Type** e selecione a opção coordinates.
 
-![Set Point Type](setPointtype.png)
+![Set Point Type](setPointType.png)
 
 Com a opção coordinates selecionada, O ponto pode ser selecionado clicando na tela ou digitando as corrdenadas.
 
@@ -48,11 +48,13 @@ Arraste a saida á esquerda do componente **Point** e concete com a entrada **Ge
 
 ### Definindo Direção de Distância
 
+
+
 ### Criando Colunas a partir de uma curva
 
 ## Exemplos
 
-[Elementos tubulares Uma Curva](ELEMENTOS_TUBULARES_UMA_CURVA.gh)
+[Elementos tubulares uma Curva](ELEMENTOS_TUBULARES_UMA_CURVA.gh)
 
 [Elementos tubulares duas Curvas](ELEMENTOS_TUBULARES_DUAS_CURVAS.gh)
 
