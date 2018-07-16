@@ -320,6 +320,17 @@ ___
 
 1. Render Básico
 
+    * Modos de render(vizualização)
+    * Materiáis - Cores (diffuse)
+    * Configuração de ambiente
+        * Iluminação global
+        * Grownd
+        * HDRI
+    * Simulação da posição do Sol
+    * Materiais - Ambiente e specular
+    * Texturas - mapas de textura
+    * Bump
+
 1. Referências e Links
 
 ___
