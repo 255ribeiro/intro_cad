@@ -108,7 +108,7 @@ Na aba **Params**, no painel **Input** selecione a opção **Slider**.
 
 Com um clique duplo na parte esquerda do **Slider**, altere o valor da opção **R** para **N** e a opção **Max** para 100 e clique em **Ok**.
 
-![slider int 2](sliderint2.jpg)
+![slider int 2](sliderInt2.jpg)
 
 Conecte a saída do **Slider** com a entrada **Count** do componente **Divide Curve**.
 
