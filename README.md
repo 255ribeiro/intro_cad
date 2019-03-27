@@ -107,6 +107,7 @@ ___
 1. Organização dos arquivo em camadas (layers)
 
         Layer(LA)
+        Mathcprop(MA)
 
 1. Comandos de edição parte 2
 
@@ -140,6 +141,16 @@ ___
 1. COMANDO PROPERTIES
 
         PROPERTIES(PR) CTRL+1
+
+1. Sistema de coordenadas do usuário
+
+        ucs
+        plan
+
+1. Cortes
+
+        Xline(XL)
+        Ray
 
 1. Referências e Links
 

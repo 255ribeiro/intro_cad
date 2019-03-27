@@ -33,11 +33,17 @@
 
   * As plantas devem estar representadas em escala adequada, aprovada em orientação com os professores.
 
-### Etapa 02 - Modelagem tridimensional
+### Etapa 02 - Modelagem tridimensional - Painel
 
 * A Modelagem tridimensional de um projeto, obra de arquitetura. Podendo ser o mesmo projeto da etapa anterior.
 
-* Os arquivos e imagens geradas devem ser entregues pessoalmente ou enviados por meio digital.
+* Elaborar um painel A2 (paisagem) contendo Imagens e informações relevantes do projeto.
+
+* Serão avaliados a diagramação e linguagem dos paineis.
+
+* O painel deve conter ao menos uma vista 3D do pojeto.
+
+* A formataçâo e as demais imagens que compõem o painel são de livre escolha do aluno.
 
 #### Cada etapa de avaliação vale 10 pontos
 
