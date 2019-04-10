@@ -27,7 +27,7 @@
      5. cotas de nível,
      6. símbolos de identificação do desenho.
 
-  * As plantas devem ser entregue em formatos PDF, DWG e Impresso outros formatos devem ser combinados e aprovados pelos professores.
+  * As plantas devem ser entregue em formatos PDF, DWG, CTB e Impresso outros formatos devem ser combinados e aprovados pelos professores.
 
   * Os projetos deve ser previamente aprovados pelos professores.
 

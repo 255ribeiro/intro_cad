@@ -20,7 +20,7 @@ ___
 
 ___
 
-### Aula 01 - (4/4/2018)
+### Aula 01 -  Qua (20/2/2019)
 
 1. Apresentação do curso
 
@@ -68,7 +68,7 @@ ___
 
 ___
 
-### Aula 02 - (11/4/2018)
+### Aula 02 - Qua (13/3/2019)
 
 1. Comandos de criação 2D
 
@@ -102,7 +102,7 @@ ___
 
 ___
 
-### Aula 03 - (18/4/2018)
+### Aula 03 - Qua (20/3/2019)
 
 1. Organização dos arquivo em camadas (layers)
 
@@ -127,7 +127,7 @@ ___
 
 ___
 
-### Aula 04 - (25/4/2018)
+### Aula 04 - Qua (27/3/2019)
 
 1. VARIÁVEIS DO SISTEMA
 
@@ -156,7 +156,7 @@ ___
 
 ___
 
-### Aula 05 - (2/5/2018)
+### Aula 05 - Qua (3/4/2019)
 
 1. [Hachuras](./hatch/hatch.md)
 
@@ -178,7 +178,7 @@ ___
 
 ___
 
-### Aula 06 - (9/5/2018)
+### Aula 06 - Qua (10/4/2019)
 
 1. configuração de [textos](./textos/configTextos.md) e margens
 
@@ -194,7 +194,7 @@ ___
 
 ___
 
-### Aula 07 - (16/5/2018)
+### Aula 07 - Qua (17/4/2019)
 
 1. Configuração de [cotas](./cotas/cotas.md)
 
@@ -210,7 +210,7 @@ ___
 
 ___
 
-### Aula 08 - (23/5/2018)
+### Aula 08 - Qua (24/4/2019)
 
 1. Trabalhando no [PaperSpace](./PaperSpace/PaperSpace.md).
 
@@ -218,7 +218,7 @@ ___
 
 ___
 
-### Aula 09 - (30/5/2018)
+### Aula 09 - Qua (8/5/2019)
 
 1. Orientação do Trabalho
 
@@ -226,7 +226,7 @@ ___
 
 ___
 
-### Aula 10 - (6/6/2018
+### Aula 10 -  Qua (15/5/2019)
 
 1. Entrega  do Trabalho
 
@@ -234,7 +234,7 @@ ___
 
 ___
 
-### Aula 11 - (13/6/2018)
+### Aula 11 - Qua (22/5/2019)
 
 1. Modelagem 3D no Rhinoceros3D
 
@@ -257,7 +257,7 @@ ___
 
 ___
 
-### Aula 12 - (20/6/2018)
+### Aula 12 - Qua (29/5/2019)
 
 1. Transformações de sólidos
 
@@ -288,7 +288,7 @@ ___
 
 ___
 
-### Aula 13 - (27/6/2018)
+### Aula 13 - Qua (5/6/2019)
 
 1. Templates
 
@@ -317,7 +317,7 @@ ___
 
 ___
 
-### Aula 14 - (4/7/2018)
+### Aula 14 - Qua (12/6/2019)
 
 1. Modelagem Paramétrica
 
@@ -328,7 +328,7 @@ ___
 
 ___
 
-### Aula 15 - (11/7/2018)
+### Aula 15 - Qua (19/6/2019)
 
 1. Render Básico
 
@@ -349,23 +349,13 @@ ___
 
 ___
 
-### Aula 16 - (18/7/2018)
+### Aula 16 - Qua (26/6/2019)
 
 1. Orientação de trabalhos
 
 1. Referências e Links
 
-___
-
-### Aula 17 - (25/7/2018)
-
-1. Orientação de trabalhos
-
-1. Referências e Links
-
-___
-
-### Aula 17 - (01/08/2018)
+### Aula 17 - Qua (3/7/2019)
 
 Entrega dos trabalhos
 
