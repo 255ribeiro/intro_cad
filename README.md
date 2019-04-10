@@ -222,19 +222,13 @@ ___
 
 1. Orientação do Trabalho
 
-1. Referências e Links
-
-___
-
-### Aula 10 -  Qua (15/5/2019)
-
 1. Entrega  do Trabalho
 
 1. Referências e Links
 
 ___
 
-### Aula 11 - Qua (22/5/2019)
+### Aula 10 -  Qua (15/5/2019)
 
 1. Modelagem 3D no Rhinoceros3D
 
@@ -257,7 +251,7 @@ ___
 
 ___
 
-### Aula 12 - Qua (29/5/2019)
+### Aula 11 - Qua (22/5/2019)
 
 1. Transformações de sólidos
 
@@ -288,7 +282,7 @@ ___
 
 ___
 
-### Aula 13 - Qua (5/6/2019)
+### Aula 12 - Qua (29/5/2019)
 
 1. Templates
 
@@ -317,7 +311,7 @@ ___
 
 ___
 
-### Aula 14 - Qua (12/6/2019)
+### Aula 13 - Qua (5/6/2019)
 
 1. Modelagem Paramétrica
 
@@ -328,7 +322,7 @@ ___
 
 ___
 
-### Aula 15 - Qua (19/6/2019)
+### Aula 14 - Qua (12/6/2019)
 
 1. Render Básico
 
@@ -349,11 +343,21 @@ ___
 
 ___
 
+### Aula 15 - Qua (19/6/2019)
+
+1. Orientação de trabalhos
+
+1. Referências e Links
+
+___
+
 ### Aula 16 - Qua (26/6/2019)
 
 1. Orientação de trabalhos
 
 1. Referências e Links
+
+___
 
 ### Aula 17 - Qua (3/7/2019)
 
