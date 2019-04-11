@@ -6,12 +6,6 @@ Beth Soares \| bethsoaress@gmail.com
 
 ___
 
-Grupo de informações (e-mail):
-
-[https://groups.google.com/forum/#!forum/20181-informtica-e-desenho-1](https://groups.google.com/forum/#!forum/20181-informtica-e-desenho-1)
-
-___
-
 ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
 
 ___
