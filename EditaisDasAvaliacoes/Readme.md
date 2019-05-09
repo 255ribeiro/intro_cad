@@ -29,6 +29,8 @@
 
   * As plantas devem ser entregue em formatos PDF, DWG, CTB e Impresso outros formatos devem ser combinados e aprovados pelos professores.
 
+* Os arquivos devem ser eviados através do Moodle da disciplina compactados em formato ZIP.
+
   * Os projetos deve ser previamente aprovados pelos professores.
 
   * As plantas devem estar representadas em escala adequada, aprovada em orientação com os professores.
