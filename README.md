@@ -6,7 +6,7 @@ Beth Soares \| bethsoaress@gmail.com
 
 ___
 
-## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)
+[//]: # '## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)'
 
 ___
 
