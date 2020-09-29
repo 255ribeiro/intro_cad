@@ -243,7 +243,7 @@ ___
 
 2. Referências e Links
 
-    * [Tutorial Rhino Modelagem 3D](https://www.youtube.com/watch?v=NKkXMKKA_Cs&list=PL68tctImfhCR2zFIxzEs95v5ETSXe9r14)
+    * [Tutorial Rhino Modelagem 3D em Portugues](https://www.youtube.com/watch?v=Tg36g5gJk-g&t=4s)
 
 ___
 
