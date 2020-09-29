@@ -10,15 +10,16 @@ M Move
 U _Undo
 POn ! _PointsOn
 POff ! _PointsOff
-CC '_SelCrossing
+c circle
 W '_SelWindow
 COn '_CurvatureGraph
 COff '_CurvatureGraphOff
 PlugInManager ! _OptionsPage _PlugIns
 AdvancedDisplay ! _OptionsPage _AdvancedSettings
 DisplayAttrsMgr ! _OptionsPage _AdvancedSettings
-SelPolysurface '_SelPolysrf
 Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+CC '_SelCrossing
 Sn '_Snap
 scs '_SelCrossing
 ec extrudecrv
@@ -93,10 +94,9 @@ aa area
 on offsetnormal
 oos OffsetCrvOnSrf
 maf MergeAllFaces
-mf MergeFace
+mef MergeFace
 NewAlias points
 ic interpCrv
-c circle
 la layer
 div divide
 rb rebuild
@@ -105,3 +105,6 @@ bd BooleanDifference
 bi BooleanIntersection
 bs booleansplit
 b2 Boolean2objects
+sf splitFace
+med MoveEdge
+mf moveFace

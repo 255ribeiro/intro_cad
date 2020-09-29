@@ -14,7 +14,7 @@ ___
 
 ___
 
-### Aula 01 -  Qua (20/2/2019)
+### Aula 01 - Qua (20/2/2019)
 
 1. Apresentação do curso
 
@@ -232,16 +232,16 @@ ___
 
 1. [Importando atalhos](./atalhosRhino/atalhosRhino.md)
 
-1. Desenhando curvas
+1. [Pontos e Curvas](./rhino_Aulas/CURVAS_2020.3dm)
 
-1. Primitivas 3D
-    * Operações Booleanas
+1. [Superfícies e Sólidos](./rhino_Aulas/Srf_solidos.3dm)
 
-1. GumBall
+1. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.3dm)
 
-1. Operações Booleanas
+1. [Exemplo telhados](./rhino_Aulas/telahdos.3dm)
 
-1. Referências e Links
+
+2. Referências e Links
 
     * [Tutorial Rhino Modelagem 3D](https://www.youtube.com/watch?v=NKkXMKKA_Cs&list=PL68tctImfhCR2zFIxzEs95v5ETSXe9r14)
 
@@ -255,7 +255,7 @@ ___
     * extrusão de superfícies ExtrudeSrf(ef)
     * Dividir superfície Splitface(sf)
     * Mover superfície Moveface(mf)
-    * Mover aresta MoveEdge(me)
+    * Mover aresta MoveEdge(med)
     * Gumball
 
 1. Modelagem de superfícies
