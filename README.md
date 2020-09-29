@@ -18,7 +18,7 @@ ___
 
 1. Apresentação do curso
 
-    * Metodoloagia
+    * Metodologia
     * Avaliações
 
 1. Funcionamento do Laboratório
