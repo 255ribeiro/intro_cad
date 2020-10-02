@@ -238,10 +238,11 @@ ___
 
 1. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.3dm)
 
-1. [Exemplo telhados](./rhino_Aulas/telahdos.3dm)
+1. [Exercício Telhados](./rhino_Aulas/telahdos.3dm)
 
+2. [Exercício Contornos](./rhino_Aulas/contornos.3dm)
 
-2. Referências e Links
+3. Referências e Links
 
     * [Tutorial Rhino Modelagem 3D em Portugues](https://www.youtube.com/watch?v=Tg36g5gJk-g&t=4s)
     * [Curso de rhinoceros em portugues](https://www.youtube.com/watch?v=7_maL5Sn8DU&list=PL2TS2Y8f7dOpxSQGn24FS5B5OMOyHphX4)
@@ -283,11 +284,11 @@ ___
 
 1. Templates
 
-    * [exemplo template](./TEMPLETE_INFO01.3dm)
+    * [Exemplo Template](./TEMPLETE_INFO01.3dm)
 
 1. modelagem de terrenos
 
-    * [exemplo terrenos](./terreno_exemplos.zip)
+    * [Exercício Terrenos](./terreno_exemplos.zip)
 
     * patch
 
