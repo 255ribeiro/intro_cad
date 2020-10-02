@@ -238,7 +238,7 @@ ___
 
 1. [Curvas a partir de superfícies e sólidos](./rhino_Aulas/curves_from_objects.3dm)
 
-1. [Exercício Telhados](./rhino_Aulas/telahdos.3dm)
+1. [Exercício Telhados](./rhino_Aulas/Telhados.3dm)
 
 2. [Exercício Contornos](./rhino_Aulas/contornos.3dm)
 
