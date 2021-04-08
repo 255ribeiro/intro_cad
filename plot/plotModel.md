@@ -74,6 +74,10 @@ Quando o seletor **what to plot** já está ajustado na opção **Window** a rea
 
 ![](WindowBotao.jpg)
 
+É recomendável centralizar a plotagem, utilizando a caixa de seleção conforme a figura abaixo:
+
+![](CENTERPLOT.jpg)
+
 ## Configurando a escala
 
 No quadro **Plot scale (4- Escala)** ajuste a escala de plotagem. As opções de unidades para o desenho são apenas milimetros (mm) e Poliegadas (Inches). Para plotar um desenho unde uma unidade de desenho corresponde a um metro, a maneira mais comum de configurar é:
