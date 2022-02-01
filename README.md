@@ -133,7 +133,8 @@ ___
 
 1. COMANDO PROPERTIES
 
-        PROPERTIES(PR) CTRL+1
+        PROPERTIES(PR)
+        CTRL+1
 
 1. Sistema de coordenadas do usuário
 
