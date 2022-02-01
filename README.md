@@ -2,7 +2,6 @@
 
 Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
-Beth Soares \| bethsoaress@gmail.com
 
 ___
 
@@ -14,7 +13,7 @@ ___
 
 ___
 
-### Aula 01 - Qua (20/2/2019)
+### Aula 01
 
 1. Apresentação do curso
 
@@ -62,7 +61,7 @@ ___
 
 ___
 
-### Aula 02 - Qua (13/3/2019)
+### Aula 02
 
 1. Comandos de criação 2D
 
@@ -96,7 +95,7 @@ ___
 
 ___
 
-### Aula 03 - Qua (20/3/2019)
+### Aula 03
 
 1. Organização dos arquivo em camadas (layers)
 
@@ -121,7 +120,7 @@ ___
 
 ___
 
-### Aula 04 - Qua (27/3/2019)
+### Aula 04
 
 1. VARIÁVEIS DO SISTEMA
 
@@ -150,7 +149,7 @@ ___
 
 ___
 
-### Aula 05 - Qua (3/4/2019)
+### Aula 05
 
 1. [Hachuras](./hatch/hatch.md)
 
@@ -172,7 +171,7 @@ ___
 
 ___
 
-### Aula 06 - Qua (10/4/2019)
+### Aula 06
 
 1. configuração de [textos](./textos/configTextos.md) e margens
 
@@ -190,7 +189,7 @@ ___
 
 ___
 
-### Aula 07 - Qua (17/4/2019)
+### Aula 07
 
 1. Configuração de [cotas](./cotas/cotas.md)
 
@@ -206,7 +205,7 @@ ___
 
 ___
 
-### Aula 08 - Qua (24/4/2019)
+### Aula 08
 
 1. Trabalhando no [PaperSpace](./PaperSpace/PaperSpace.md).
 
@@ -214,7 +213,7 @@ ___
 
 ___
 
-### Aula 09 - Qua (8/5/2019)
+### Aula 09
 
 1. Orientação do Trabalho
 
