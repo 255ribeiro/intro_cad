@@ -5,11 +5,11 @@ Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 ___
 
-[//]: # '## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md)'
+<!-- ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md) -->
 
 ___
 
-## Plano de Aulas
+## Plano de aulas
 
 ___
 
@@ -22,11 +22,11 @@ ___
 
 1. Funcionamento do Laboratório
 
-   [Regras do LCAD](./RegrasDoLCAD.md)
+<!-- [Regras do LCAD](./RegrasDoLCAD.md) -->
 
-1. Instalação do Programa
+2. Instalação do Programa
 
-1. Interface
+3. Interface
 
    * Tipos de arquivos
 
@@ -44,14 +44,14 @@ ___
 
    * Sistema de coordenadas
 
-1. Exercício
+4. Exercício
 
         line (L)
         polyline (PL)
 
     * [Coordenadas cartesianas e polares](./Exercicio_01_Coordenadas.pdf)
 
-1. Referências e Links
+5. Referências e Links
 
    * instalação
 
