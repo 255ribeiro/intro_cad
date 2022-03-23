@@ -48,8 +48,8 @@ ___
 
         line (L)
         polyline (PL)
-
-    * [Coordenadas cartesianas e polares](./Exercicio_01_Coordenadas.pdf)
+./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf
+    * [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
 
 5. Referências e Links
 
