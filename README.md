@@ -93,6 +93,8 @@ ___
 
 1. Referências e Links
 
+ * [History of BIM - Miro Board](https://miro.com/app/board/o9J_laML2cs=/)
+
 ___
 
 ### Aula 03
