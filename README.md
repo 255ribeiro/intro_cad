@@ -112,11 +112,11 @@ ___
 
 1. Exercício
 
-[Planta Baixa](./Exercicio_02_Cabana_Chamberlain.pdf)
+[Planta Baixa](./exercicio_chamberlain/Exercicio_02_Cabana_Chamberlain.pdf)
 
-[Corte E Fachada](./Exercicio_02_Cabana_Chamberlain02.pdf)
+[Corte E Fachada](./exercicio_chamberlain/Exercicio_02_Cabana_Chamberlain02.pdf)
 
-[Subsolo](./Exercicio_02_Cabana_Chamberlain03.pdf)
+[Subsolo](./exercicio_chamberlain/Exercicio_02_Cabana_Chamberlain03.pdf)
 
 1. Referências e Links
 
