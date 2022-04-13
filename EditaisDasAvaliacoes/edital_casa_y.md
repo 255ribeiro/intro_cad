@@ -1,5 +1,7 @@
 # Edital avaliação 01
 
+Desenho técnico 2D com instrumentos computacionais.
+
 ## instruções:
 
 - Cada Aluno deve baixar o PDF com o seu nome
