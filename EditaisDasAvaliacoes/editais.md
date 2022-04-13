@@ -1,4 +1,4 @@
-# Editais de avaliações
+# Editais das Avaliações
 
 ## Avaliação 01
 
@@ -8,3 +8,8 @@
 ## Avaliação 02
 
 - [Avaliação 02 - 3D](./edital_3d.md)
+
+
+## Média final
+
+- A média aritmética das duas avaliações.
