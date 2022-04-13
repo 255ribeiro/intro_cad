@@ -1,4 +1,4 @@
-# Edital avaliação 01
+# Edital Avaliação 01
 
 Desenho técnico 2D com instrumentos computacionais.
 
