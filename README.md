@@ -5,7 +5,7 @@ Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
 
 ___
 
-<!-- ## [Edital das Avaliações](./EditaisDasAvaliacoes/Readme.md) -->
+## [Edital das Avaliações](./EditaisDasAvaliacoes/edital_casa_y.md)
 
 ___
 
