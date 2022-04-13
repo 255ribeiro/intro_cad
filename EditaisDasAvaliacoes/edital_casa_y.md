@@ -26,7 +26,7 @@
 
 1. Todos estes espaços devem estar contidos no contorno fornecido podendo estar fora do contorno apenas: pátios, varandas, beirais, pergolados e outras áreas abertas.
 
-1. O pavimento superior deve ter no máximo 35 m² de área construida coberta.
+1. O pavimento superior deve ter no máximo 75% da área do pavimento inferior de área construída coberta.
 
 1. Todos os cômodos devem estar devidamente iluminados e ventilados.
 
