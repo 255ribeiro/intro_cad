@@ -24,6 +24,10 @@
 
     - uma escada para o pavimento superior
 
+1. O projeto deve ser implantado em um terreno com curvas de nível.
+    
+    - Pode-se usar uma das bases de levantamento de Salvador.
+  
 1. Todos estes espaços devem estar contidos no contorno fornecido podendo estar fora do contorno apenas: pátios, varandas, beirais, pergolados e outras áreas abertas.
 
 1. O pavimento superior deve ter no máximo 75% da área do pavimento inferior de área construída coberta.
@@ -54,5 +58,5 @@
 
     - blocos para mostrar os layouts dos ambientes
 
-1. 
+
 
