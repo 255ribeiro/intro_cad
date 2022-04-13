@@ -62,6 +62,6 @@ Desenho técnico 2D com instrumentos computacionais.
 
     - blocos para mostrar os layouts dos ambientes
 
-## Os prazos devem ser consultados no cronograma da disciplina
+#### Os prazos devem ser consultados no cronograma da disciplina.
 
 
