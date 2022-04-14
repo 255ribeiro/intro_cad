@@ -12,4 +12,6 @@
 
 ## Média final
 
-- A média aritmética das duas avaliações.
+- Cada etapa de avaliação vale 10 pontos
+
+- A média aritmética das duas avaliações. 
