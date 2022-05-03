@@ -181,11 +181,12 @@ ___
 ### Aula 06
 
 1. [Atalhos](./atalhos/cad_atalhos.md) do Autocad.
+   
 1. Carregando e rodando [Scripts](./scripts_examples/scripts.md) no Autocad.
 
-2. configuração de [textos](./textos/configTextos.md) e margens
+1. configuração de [textos](./textos/configTextos.md) e margens
 
-3. [Plotagem no model space](./plot/plotModel.md)
+1. [Plotagem no model space](./plot/plotModel.md)
 
     1. Configuração de impressora;
 
@@ -195,7 +196,7 @@ ___
 
     4. CONVERTPSTYLES
 
-4. Referências e Links
+1. Referências e Links
 
 ___
 
