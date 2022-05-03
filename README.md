@@ -180,6 +180,8 @@ ___
 
 ### Aula 06
 
+1. [Atalhos](./atalhos/cad_atalhos.md) do autocad.
+
 1. configuração de [textos](./textos/configTextos.md) e margens
 
 1. [Plotagem no model space](./plot/plotModel.md)
