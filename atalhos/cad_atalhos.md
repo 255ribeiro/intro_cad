@@ -7,7 +7,8 @@
 
     * O arquivo, por padrão fica no caminho: ```C:\Users\<user_name>\AppData\Roaming\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
     * Ou, utilizando o atalho: ```%appdata%\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
-    * Também pode ser aberto na aba Manage ->  Customization -> edit Aliases.
+    * Para abrir o arquivo diretamente, utilize : ```%appdata%\Autodesk\AutoCAD 2021\R24.0\enu\Support\acad.pgp```
+    * Também pode ser aberto através do Autocad, na aba Manage ->  Customization -> edit Aliases.
   
     ![img](./open_pgp.jpg)
 
