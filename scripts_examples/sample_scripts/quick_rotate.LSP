@@ -1,4 +1,6 @@
-(defun c:RCM (/ PC P1 P2 ssvar ssal)
+; quick rotate
+; type qr to run the file
+(defun c:qr (/ PC P1 P2 ssvar ssal)
 
 
  (setq ssvar (ssget))

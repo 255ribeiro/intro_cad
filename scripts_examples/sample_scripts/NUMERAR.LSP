@@ -1,5 +1,5 @@
 ;============================================================================
-;  COMANDO (NUMERAR)
+;  COMANDO (NUM)
 ;  Rotina para colocacao de numeros no desenho
 ;============================================================================
 ;
@@ -19,6 +19,11 @@
       )
   )
   )
+
+;============================================================================
+;  COMANDO (NUMA)
+;  Rotina para colocacao de numeros no desenho utilizando escala anotativa
+;============================================================================
 
 (defun c:NUMA (/ NI P1)
 (setq NI (getint "\nNumero inicial <1>: "))
