@@ -12,7 +12,7 @@
 
 2. Role o arquivo até o final e acrescente os atalhos desejados da seguinte forma:
     - Use "," (virgula) após as teclas de atalho e "*" (asterisco) antes do nome do comando
-    - *<teclas_de_atalho>*, &emsp; &emsp; &emsp; **<Nome_do_comanto>*
+    - *\<teclas_de_atalho\>*, &emsp; &emsp; &emsp; **\<Nome_do_comanto\>*
 
 #### Exemplo:
 
