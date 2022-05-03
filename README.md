@@ -180,21 +180,22 @@ ___
 
 ### Aula 06
 
-1. [Atalhos](./atalhos/cad_atalhos.md) do autocad.
+1. [Atalhos](./atalhos/cad_atalhos.md) do Autocad.
+1. Carregando e rodando [Scripts](./scripts_examples/scripts.md) no Autocad.
 
-1. configuração de [textos](./textos/configTextos.md) e margens
+2. configuração de [textos](./textos/configTextos.md) e margens
 
-1. [Plotagem no model space](./plot/plotModel.md)
+3. [Plotagem no model space](./plot/plotModel.md)
 
     1. Configuração de impressora;
 
-    1. configuração de penas;
+    2. configuração de penas;
 
-    1. arquivo CTB.
+    3. arquivo CTB.
 
-    1. CONVERTPSTYLES
+    4. CONVERTPSTYLES
 
-1. Referências e Links
+4. Referências e Links
 
 ___
 
