@@ -1,5 +1,8 @@
 # Editando atalho no Autocad
 
+
+## Editando atalhos
+
 1. Procure e abra o arquivo Acad.pgp
 
     * O arquivo, por padrão fica no caminho: ```C:\Users\<user_name>\AppData\Roaming\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
@@ -14,7 +17,7 @@
     - Use "," (virgula) após as teclas de atalho e "*" (asterisco) antes do nome do comando
     - *\<teclas_de_atalho\>*, &emsp; &emsp; &emsp; **\<Nome_do_comanto\>*
 
-#### Exemplo:
+### Exemplo:
 
 ```
 
@@ -32,7 +35,7 @@ PC,      *POINTCLOUD
 PCINDEX,      *POINTCLOUDINDEX
 
 ; -- Annotative scale
-AS,      *OBJECTSCALE
+AS,       *OBJECTSCALE
 ASA,      *AIOBJECTSCALEADD
 ASR,      *AIOBJECTSCALEREMOVE
 ASY,      *annoreset
@@ -43,24 +46,24 @@ LIS,      *layiso
 liv,      *layvpi
 LUS,      *layuniso
 lmg,      *laymrg
-lc,      *laymcur
-lf,      *layfrz
-lk,      *laylck
+lc,       *laymcur
+lf,       *layfrz
+lk,       *laylck
 luk,      *layulk
-lp,      *layerp
+lp,       *layerp
 lof,      *layoff
 lwk,      *laywalk
 ocl,      *laycur
 
 ; -- External references
-xcf,      *xclipframe
+xcf,     *xclipframe
 xe,      *refedit
 xo,      *xopen
 
 ; -- ohter commandas
 OO,      *3DORBIT
-CHS,      *CHSPACE
+CHS,     *CHSPACE
 qs,      *qselect
-RVC,      *REVCLOUD
+RVC,     *REVCLOUD
 
 ```
