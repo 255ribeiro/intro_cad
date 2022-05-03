@@ -3,7 +3,7 @@
 1. Procure e abra o arquivo Acad.pgp
 
     * O arquivo, por padrão fica no caminho: ```C:\Users\<user_name>\AppData\Roaming\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
-    * Ou ```%appdata%\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
+    * Ou, utilizando o atalho: ```%appdata%\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
     * Também pode ser aberto na aba Manage ->  Customization -> edit Aliases.
   
     ![img](./open_pgp.jpg)
