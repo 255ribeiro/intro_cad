@@ -20,7 +20,7 @@
 
 ### Exemplo:
 
-```
+```Lisp
 
 ;  -- User Defined Command Aliases --
 ;  Make any changes or additions to the default AutoCAD command aliases in 
