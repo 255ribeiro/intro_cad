@@ -9,11 +9,13 @@
     * Ou, utilizando o atalho: ```%appdata%\Autodesk\AutoCAD 2021\R24.0\enu\Support\```
     * Para abrir o arquivo diretamente, utilize : ```%appdata%\Autodesk\AutoCAD 2021\R24.0\enu\Support\acad.pgp```
     * Também pode ser aberto através do Autocad, na aba Manage ->  Customization -> edit Aliases.
+    <br>
   
     ![img](./open_pgp.jpg)
+    <br>
 
     * Este arquivo armazena todos os atalhos do Autocad. Podemos Adicionar, modificar e Excluir atalhos do Autocad editando este arquivo.
-
+    <br>
 2. Role o arquivo até o final e acrescente os atalhos desejados da seguinte forma:
     - Use "," (virgula) após as teclas de atalho e "*" (asterisco) antes do nome do comando
     - *\<teclas_de_atalho\>*, &emsp; &emsp; &emsp; **\<Nome_do_comanto\>*
