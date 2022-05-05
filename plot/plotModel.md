@@ -31,7 +31,7 @@ Abrindo a caixa de dialogo de plotagem existe um botão em forma de seta, clican
 
 A imagem abaixo mostra os principais quadros da Caixa de diálogo de impressão.
 
-<hr>
+<br>
 
 #### Principais quadros da caixa de diálogo
 
@@ -97,11 +97,11 @@ O arquivo CTB é a "Rainha de copas" da plotagem. O CTB pode configurar para que
 
 ![img](./cliproses.gif)
 
-#### Selecionando e/ou criando arquivos CTB
+### Selecionando e/ou criando arquivos CTB
 
 No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de configuração de espessuras de linha e/ou criar um arquivo novo.
 
-##### OBS: Existem dois formatos de arquivo utilizados para configuração de espessuras de linha, CTB e STB. Esse guia mostra as opções de configuração de plotagem utilizando arquivos CTB.
+#### OBS: Existem dois formatos de arquivo utilizados para configuração de espessuras de linha, CTB e STB. Esse guia mostra as opções de configuração de plotagem utilizando arquivos CTB.
 
 - Caso seu arquivo esteja configurado para arquivos STB, utilize o  comando abaixo para ajustar seu arquivo para uso dos CTB.
     ```CONVERTPSTYLES```
@@ -111,7 +111,7 @@ No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de co
 
 Selecionando a opção de editar é possível aplicar diversos atributos para uma cor do tipo **index Color**
 
-#### Configurando arquivo CTB
+### Configurando arquivo CTB
 
 ![](confCTB.jpg)
 
@@ -127,7 +127,7 @@ Para o Autocad ler o arquivo CTB ele precisa estar no diretório configurado. Pa
 
 <hr>
 
-#### Abrindo pasta dos CTBs
+### Abrindo pasta dos CTBs
 
 ![](AbribdoPastaCTB.jpg)
 
