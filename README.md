@@ -193,7 +193,9 @@ ___
     - Configuração de impressora
     - configuração de penas
     - arquivo CTB
+        <br>
         ```CONVERTPSTYLES```
+        <br>
 
 2. Referências e Links
 

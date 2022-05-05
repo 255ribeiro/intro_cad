@@ -104,7 +104,9 @@ No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de co
 #### OBS: Existem dois formatos de arquivo utilizados para configuração de espessuras de linha, CTB e STB. Esse guia mostra as opções de configuração de plotagem utilizando arquivos CTB.
 
 - Caso seu arquivo esteja configurado para arquivos STB, utilize o  comando abaixo para ajustar seu arquivo para uso dos CTB.
+    <br>
     ```CONVERTPSTYLES```
+    <br>
 - Este comando alterna entre a utilização de arquivos STB e CTB na configuração das espessuras de linha nos arquivos.
 
 ![](criarCTB.jpg)
