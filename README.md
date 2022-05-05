@@ -186,7 +186,7 @@ ___
 
 1. Configuração de [textos](./textos/configTextos.md)
 
-1. Desenhando [margens e carimbo](./margens_e_carimbo/margens.md) 
+1. Desenhando [margens](./margens_e_carimbo/margens.md) e [carimbo](./margens_e_carimbo/carimbo.md)
 
 1. [Plotagem no model space](./plot/plotModel.md)
 
