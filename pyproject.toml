@@ -13,6 +13,9 @@ jupyter = "^1.0.0"
 pandas = "^1.4.2"
 numpy = "^1.22.3"
 seaborn = "^0.11.2"
+ipykernel = "^6.13.0"
+tablib = "^3.2.1"
+xlrd = "^2.0.1"
 
 [tool.poetry.dev-dependencies]
 
