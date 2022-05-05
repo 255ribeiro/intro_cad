@@ -1,3 +1,7 @@
+# virtual env
+
+.venv/
+
 *.tmp
 
 *libre office lock file
