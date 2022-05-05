@@ -184,7 +184,9 @@ ___
    
 1. Carregando e rodando [Scripts](./scripts_examples/scripts.md) no Autocad.
 
-1. configuração de [textos](./textos/configTextos.md) e margens
+1. Configuração de [textos](./textos/configTextos.md)
+
+1. Desenhando [margens e carimbo](./margens_e_carimbo/margens.md) 
 
 1. [Plotagem no model space](./plot/plotModel.md)
 
