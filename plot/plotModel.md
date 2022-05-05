@@ -91,17 +91,27 @@ No quadro **Plot scale (4- Escala)** ajuste a escala de plotagem. As opções de
 
 <hr>
 
-## Configurando o CTB
+## Arquivos CTB
 
-No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de configuração de penas e/ou criar um arquivo novo.
+O arquivo CTB é a "Rainha de copas" da plotagem. O CTB pode configurar para que elementos de uma determinada cor sejam plotados em outra cor.
 
-#### Selecionar ou criar CTB
+![img](./cliproses.gif)
+
+#### Selecionando e/ou criando arquivos CTB
+
+No **quadro Plot Style Table (6- CTB)** é possível selecionar um arquivo de configuração de espessuras de linha e/ou criar um arquivo novo.
+
+##### OBS: Existem dois formatos de arquivo utilizados para configuração de espessuras de linha, CTB e STB. Esse guia mostra as opções de configuração de plotagem utilizando arquivos CTB.
+
+- Caso seu arquivo esteja configurado para arquivos STB, utilize o  comando abaixo para ajustar seu arquivo para uso dos CTB.
+    ```CONVERTPSTYLES```
+- Este comando alterna entre a utilização de arquivos STB e CTB na configuração das espessuras de linha nos arquivos.
 
 ![](criarCTB.jpg)
 
 Selecionando a opção de editar é possível aplicar diversos atributos para uma cor do tipo **index Color**
 
-#### Selecionar ou criar CTB
+#### Configurando arquivo CTB
 
 ![](confCTB.jpg)
 

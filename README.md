@@ -190,15 +190,12 @@ ___
 
 1. [Plotagem no model space](./plot/plotModel.md)
 
-    1. Configuração de impressora;
+    - Configuração de impressora
+    - configuração de penas
+    - arquivo CTB
+        ```CONVERTPSTYLES```
 
-    2. configuração de penas;
-
-    3. arquivo CTB.
-
-    4. CONVERTPSTYLES
-
-1. Referências e Links
+2. Referências e Links
 
 ___
 
