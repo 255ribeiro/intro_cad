@@ -68,5 +68,6 @@ OO,      *3DORBIT
 CHS,     *CHSPACE
 qs,      *qselect
 RVC,     *REVCLOUD
+IB,      *CLASSICINSERT
 
 ```
