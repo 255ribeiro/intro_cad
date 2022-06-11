@@ -58,16 +58,19 @@ lof,      *layoff
 lwk,      *laywalk
 ocl,      *laycur
 
-; -- External references
+; -- External references and blocks
 xcf,     *xclipframe
 xe,      *refedit
 xo,      *xopen
+IB,      *CLASSICINSERT
+
+; -- paper space
+CHS,     *CHSPACE
 
 ; -- ohter commandas
 OO,      *3DORBIT
-CHS,     *CHSPACE
 qs,      *qselect
 RVC,     *REVCLOUD
-IB,      *CLASSICINSERT
+
 
 ```
