@@ -35,16 +35,31 @@ ___
    * Interface de entrada de dados
 
    * Sistema de coordenadas
+  
+3. Navegação
+   
+   1. Utilizando o Mouse
+   
+   2. Utilizando os comandos
+        
+```
+zoom(Z)
+pan(P)
+orbit
+```
 
-3. Exercício
 
-        line (L)
-        polyline (PL)
-        circle (C)
-        arc (A)
+4. Exercício
+
+```
+line (L)
+polyline (PL)
+circle (C)
+arc (A)
+```
 
 
-    * [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
+* [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
 
 5. Referências e Links
 
