@@ -1,10 +1,10 @@
-# Informática e Desenho I
+# CAD 2D
 
-Fernando Ferraz Ribeiro \| fernando.ribeiro@ufba.br
+Prof. Fernando Ferraz Ribeiro
 
 ___
 
-## [Edital das Avaliações](./EditaisDasAvaliacoes/editais.md)
+<!-- ## [Edital das Avaliações](./EditaisDasAvaliacoes/editais.md) -->
 
 ___
 
@@ -14,18 +14,11 @@ ___
 
 ### Aula 01
 
-1. Apresentação do curso
 
-    * Metodologia
-    * Avaliações
+1. Instalação do Programa
 
-1. Funcionamento do Laboratório
-
-<!-- [Regras do LCAD](./RegrasDoLCAD.md) -->
-
-2. Instalação do Programa
-
-3. Interface
+2. Interface
+        <iframe width="972" height="547" src="https://www.youtube.com/embed/fW10h4q3qiw" title="AutoCad interface linha de comando e viewport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
    * Tipos de arquivos
 
@@ -43,10 +36,12 @@ ___
 
    * Sistema de coordenadas
 
-4. Exercício
+3. Exercício
 
         line (L)
         polyline (PL)
+        circle (C)
+        arc (A)
 
 
     * [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
@@ -63,12 +58,6 @@ ___
 
 ### Aula 02
 
-1. Comandos de criação 2D
-
-        line (L)
-        polyline (PL)
-        circle (C)
-        arc (A)
 
 1. Comandos de Edição Parte 1
 
@@ -82,16 +71,16 @@ ___
         rotate(RO)
         scale(SC)
 
-1. Comandos de Ponto e divisão
+2. Comandos de Ponto e divisão
 
         point(PO)
         divide(DIV)
         measure(ME)
         ptype(PT)
 
-1. Exercício
+3. Exercício
 
-1. Referências e Links
+4. Referências e Links
 
  * [History of BIM - Miro Board](https://miro.com/app/board/o9J_laML2cs=/)
 
