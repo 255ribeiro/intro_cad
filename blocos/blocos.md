@@ -6,6 +6,17 @@
 
 ## Baixando blocos da internet
 
+### Sites para download de blocos
+  
+    [Bim Objects](https://www.bimobject.com/en-us)
+
+    [linecad](http://www.linecad.com/cad-drawing/architecture/)
+
+    [cad Blocos](http://www.cadblocos.arq.br/)
+
+    [cad blocks](http://www.cad-blocks.net/)
+
+
 ## Configurações adicionais
 
 ### O controverso -DWGUNITS

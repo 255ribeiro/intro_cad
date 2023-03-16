@@ -166,21 +166,9 @@ ___
 
 1. [Hachuras](./hatch/hatch.md)
 
-1. Inserção de blocos
+2. [Blocos](./blocos/blocos.md)
 
-1. Criação e edição de blocos
-
-1. Referências e Links
-
-    * Sites para download de blocos
-
-        [linecad](http://www.linecad.com/cad-drawing/architecture/)
-
-        [cad Blocos](http://www.cadblocos.arq.br/)
-
-        [Deca Cad](https://www.deca.com.br/biblioteca/arquivos-2d-e-3d-para-projetos/)
-
-        [cad blocks](http://www.cad-blocks.net/)
+3. Referências e Links
 
 ___
 
