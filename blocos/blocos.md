@@ -45,6 +45,14 @@ Scale objects from other drawings upon insert? [Yes/No] <Yes>:
 
 Match INSUNITS to drawing units? [Yes/No] <Yes>:
 
+
+ ** WARNING: you have changed the unit for this drawing database.  **
+ ** All new objects will be drawn according to the new unit, but   **
+ ** existing objects will not change size unless you specifically  **
+ ** ask to have automatic scaling occur.                           **
+
+Scale objects in current drawing to reflect change in units? [Yes/No] <Yes>: n
+
 ```
 
 

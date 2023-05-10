@@ -20,4 +20,4 @@ Para adicionar e excluir escalas, clique no seletor(1) e na opção **Custom**(4
 
 [download de formatos](FORMATOS_A_DINAMICOS_mm.dwg)
 
-[download de blocos anotativos dinâmicos](BLOCOS_ANNOT_D.dwg)
+[download de blocos anotativos dinâmicos](Blocos_annot_d_2023.dwg)
