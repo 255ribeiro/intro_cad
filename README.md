@@ -75,7 +75,7 @@ ___
 
 ### Aula 02
 
-[Arquivo ecxemplo](./exercicio_modify/modify_commands.dwg)
+[Arquivo exemplo](./exercicio_modify/modify_commands.dwg)
 
 
 1. Comandos de Edição Parte 1
@@ -212,6 +212,7 @@ ___
 
 1. Referências e Links
 
+[Material para download](./download_assets/down.md)
 ___
 
 ### Aula 08
