@@ -1,6 +1,5 @@
 # Material para download
 
-## Download de formatos e blocos
 
 [download de formatos](./FORMATOS_A_DINAMICOS_mm.dwg)
 
