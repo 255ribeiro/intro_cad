@@ -50,14 +50,26 @@ pan(P)
 orbit
 ```
 
+1. Seleção
 
-4. Exercício
+selecionar ```RMB```
+deselecionar ```shift + RMB```
+janelas de seleção
+
+1. Apagar
+   tecla ```del``` ou ```delete```
+   ```erase(e)```
+
+2. Exercício
 
 ```
 line (L)
 polyline (PL)
 circle (C)
 arc (A)
+
+dist(di)
+id
 ```
 
 
