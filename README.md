@@ -52,8 +52,8 @@ orbit
 
 1. Seleção
 
-selecionar ```RMB```
-deselecionar ```shift + RMB```
+selecionar ```LMB```
+deselecionar ```shift + LMB```
 janelas de seleção
 
 1. Apagar
@@ -108,6 +108,8 @@ ___
         divide(DIV)
         measure(ME)
         ptype(PT)
+        regen(re)
+        regenall(rea)
 
 3. Exercício
 
