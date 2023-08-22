@@ -58,7 +58,7 @@ janelas de seleção
 
 1. Apagar
    tecla ```del``` ou ```delete```
-   ```erase(e)```
+   comando ```erase(e)```
 
 2. Exercício
 
