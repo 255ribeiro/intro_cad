@@ -19,6 +19,8 @@ ___
 
 2. Interface
 
+### Use o Autocad em Inglês [Como mudar o idioma](https://www.youtube.com/watch?v=cc1aDPPy91E)
+
 
 <iframe width="972" height="547" src="https://www.youtube.com/embed/fW10h4q3qiw" title="AutoCad interface linha de comando e viewport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -38,7 +40,7 @@ ___
 
    * Sistema de coordenadas
   
-3. Navegação
+1. Navegação
    
    1. Utilizando o Mouse
    
