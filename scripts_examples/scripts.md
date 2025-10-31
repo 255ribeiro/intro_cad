@@ -2,11 +2,9 @@
 
 [exemplos de scripts](./sample_scripts.zip)
 
+## Exemplos simples de Autolisp
 
-
-### Exemplos simples de Autolisp
-
-#### quick_align.lsp
+### quick_align.lsp
 
 ```lisp
 ; type qal to run Quick align
@@ -29,17 +27,14 @@
 	(setq po1 pd1)
 	(setq po2 pd2)
 	(setq pd1 (getpoint "\n Ponto destino 1:"))
- 	(setq pd2 (getpoint "\n Ponto destino 2:"))
-; end while loop	
+	(setq pd2 (getpoint "\n Ponto destino 2:"))
+; end while loop
  )
 ; end function
-)	 
-
-
+)
 ```
 
-#### quick_rotate.lsp
-
+### quick_rotate.lsp
 
 ```lisp
 ; type qal to run Quick align
@@ -64,7 +59,7 @@
 	
 	(setq P2 (getpoint "\n Ponto destino:"))
  )
-)		
+)
 
 
 ```
