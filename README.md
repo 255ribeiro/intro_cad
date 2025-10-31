@@ -12,6 +12,8 @@ ___
 
 ___
 
+[Material para download](./download_assets/down.md)
+
 ### Aula 01
 
 
@@ -229,8 +231,6 @@ ___
 1. Blocos anotativos.
 
 1. Referências e Links
-
-[Material para download](./download_assets/down.md)
 
 ___
 
