@@ -27,7 +27,7 @@ ___
 
 <iframe width="972" height="547" src="https://www.youtube.com/embed/fW10h4q3qiw" title="AutoCad interface linha de comando e viewport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-   * Tipos de arquivos
+* Tipos de arquivos
 
       * .dwg (arquivo padrão de trabalho)
       * .dxf (arquivo para comunicação com outros softwares)
@@ -35,20 +35,20 @@ ___
       * .ctb (arquivo de espessura de penas)
       * .pdf (arquivo para impressão)
 
-   * Menus e Ribbon
+* Menus e Ribbon
 
-   * Tela gráfica
+* Tela gráfica
 
-   * Interface de entrada de dados
+* Interface de entrada de dados
 
-   * Sistema de coordenadas
+* Sistema de coordenadas
   
 1. Navegação
-   
+
    1. Utilizando o Mouse
-   
+
    2. Utilizando os comandos
-        
+
 ```
 zoom(Z)
 pan(P)
@@ -94,7 +94,6 @@ ___
 
 [Arquivo exemplo](./exercicio_modify/modify_commands.dwg)
 
-
 1. Comandos de Edição Parte 1
 
         fillet(F)
@@ -112,6 +111,7 @@ ___
         point(PO)
         divide(DIV)
         measure(ME)
+
         ptype(PT)
         regen(re)
         regenall(rea)
@@ -120,7 +120,7 @@ ___
 
 4. Referências e Links
 
- * [History of BIM - Miro Board](https://miro.com/app/board/o9J_laML2cs=/)
+* [History of BIM - Miro Board](https://miro.com/app/board/o9J_laML2cs=/)
 
 ___
 
