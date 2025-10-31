@@ -9,6 +9,3 @@
 [Blocos anotativos dinâmicos](./Blocos_annot_d_2023.dwg)
 
 [Carimbo](./carimbo.dwg)
-
-
-
