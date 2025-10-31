@@ -25,3 +25,7 @@
 
 # Rhino lock file
 .RHL
+
+# pixi environments
+.pixi
+*.egg-info

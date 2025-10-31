@@ -1,0 +1,22 @@
+[workspace]
+authors = ["Fernando Ferraz Ribeiro <ffribeiro@gmail.com>"]
+channels = ["conda-forge"]
+name = "intro_cad"
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.13.*"
+openpyxl = ">=3.1.5,<4"
+pandas = ">=2.3.3,<3"
+numpy = ">=2.3.4,<3"
+seaborn = ">=0.13.2,<0.14"
+ipykernel = ">=7.1.0,<8"
+tablib = ">=3.9.0,<4"
+xlrd = ">=2.0.2,<3"
+mkdocs = ">=1.6.1,<2"
+
+[pypi-dependencies]
+pyautocad = ">=0.2.0, <0.3"
