@@ -4,7 +4,7 @@ Prof. Fernando Ferraz Ribeiro
 
 ___
 
-<!-- ## [Edital das Avaliações](./EditaisDasAvaliacoes/editais.md) -->
+<!-- ## [Edital da Avaliação](./EditaisDasAvaliacoes/editais.md) -->
 
 ___
 
