@@ -32,9 +32,7 @@ Desenho técnico 2D com instrumentos computacionais.
 
 4. Todos os cômodos devem estar devidamente iluminados e ventilados.
 
-5. Áreas construídas abaixo do pavimento térreo, obtidas pela relação entre a implantação e a declividade do terreno podem ser usadas livremente, desde que os cômodos propostos estejam iluminados e ventilados devidamente
-
-6. O jogo de plantas deve conter no mínimo:
+5. O jogo de plantas deve conter no mínimo:
 
     - Planta Baixa dos 2 pavimentos
 
@@ -44,7 +42,7 @@ Desenho técnico 2D com instrumentos computacionais.
 
     - uma planta de cobertura
 
-7. Os desenhos, a serem enviados em formato PDF, devem apresentar:
+6. Os desenhos, a serem enviados em formato PDF, devem apresentar:
 
     - Espessuras e hierarquia de traços conforme as regras de desenho técnico
 
