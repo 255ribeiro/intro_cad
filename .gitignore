@@ -22,6 +22,7 @@
 # Visio autosave temporary files
 *.~vsd*
 .bak
+*.bak
 
 # Rhino lock file
 .RHL

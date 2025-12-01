@@ -8,6 +8,10 @@
 
 [Blocos anotativos dinâmicos](./Blocos_annot_d_2023.dwg) -->
 
-[Carimbo](./carimbo.dwg)
+<!-- [Carimbo](./carimbo.dwg) -->
 
-[Blocos](blocos.zip)
+[Blocos](./blocos.zip)
+
+[Blocos diversos](./blocos_diversos.dwg)
+
+[Formatos de prancha e carimbo](./FORMATOS_A_DINAMICOS_mm_2025.dwg)
