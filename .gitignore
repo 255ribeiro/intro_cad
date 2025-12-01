@@ -22,7 +22,7 @@
 # Visio autosave temporary files
 *.~vsd*
 .bak
-*.bak
+
 
 # Rhino lock file
 .RHL
@@ -30,3 +30,8 @@
 # pixi environments
 .pixi
 *.egg-info
+
+# Autocad backup files
+*.bak
+*.dwl
+*.dwl2
