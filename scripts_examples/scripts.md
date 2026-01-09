@@ -1,6 +1,6 @@
 # Rodando scripts
 
-[exemplos de scripts](./sample_scripts.zip)
+[Baixar exemplos de scripts](./sample_scripts.zip)
 
 ## Exemplos simples de Autolisp
 
