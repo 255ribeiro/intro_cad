@@ -7,7 +7,9 @@
 ### quick_align.lsp
 
 ```lisp
+; Quick Align
 ; type qal to run Quick align
+
 (defun c:qal (/ po1 po2 pd1 pd2 ssvar )
 
  ; select opjects
@@ -37,11 +39,9 @@
 ### quick_rotate.lsp
 
 ```lisp
+; Quick Rotate
 ; type qr to run Quick rotate
 
-
-; quick rotate
-; type qr to run the file
 (defun c:qr (/ PC P1 P2 ssvar ssal)
 
 
