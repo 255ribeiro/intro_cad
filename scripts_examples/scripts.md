@@ -37,7 +37,7 @@
 ### quick_rotate.lsp
 
 ```lisp
-; type qal to run Quick align
+; type qr to run Quick rotate
 
 
 ; quick rotate
