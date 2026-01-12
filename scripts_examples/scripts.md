@@ -22,12 +22,12 @@
  (setq pd2 (getpoint "\n Ponto destino 2:"))
  ; while loop
  (while (/= nil pd1)
-	(command "_copy" ssvar "" po1 po1 )
-	(command "_align" ssvar "" po1 pd1 po2 pd2 "" "")
-	(setq po1 pd1)
-	(setq po2 pd2)
-	(setq pd1 (getpoint "\n Ponto destino 1:"))
-	(setq pd2 (getpoint "\n Ponto destino 2:"))
+    (command "_copy" ssvar "" po1 po1 )
+    (command "_align" ssvar "" po1 pd1 po2 pd2 "" "")
+    (setq po1 pd1)
+    (setq po2 pd2)
+    (setq pd1 (getpoint "\n Ponto destino 1:"))
+    (setq pd2 (getpoint "\n Ponto destino 2:"))
 ; end while loop
  )
 ; end function
@@ -54,10 +54,10 @@
  (setq P2 (getpoint "\n Ponto destino:"))
 
  (while (/= nil P2)
-	
-	(Command "_rotate" ssvar "" pc "_copy" "_reference" pc p1 p2)
-	
-	(setq P2 (getpoint "\n Ponto destino:"))
+
+    (Command "_rotate" ssvar "" pc "_copy" "_reference" pc p1 p2)
+
+    (setq P2 (getpoint "\n Ponto destino:"))
  )
 )
 
