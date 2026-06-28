@@ -29,20 +29,22 @@ Abaixo está a tabela técnica atualizada com as dimensões da folha, o espaço 
 
 ---
 
-# Legenda (carimbo)
+## Legenda (carimbo)
 
 De acordo com a **ABNT NBR 16752:2020**, o carimbo (tecnicamente denominado **legenda**) possui regras rígidas de posicionamento, dimensões e conteúdo obrigatório para garantir a padronização e a legibilidade após o dobramento da folha.
 
 ## Regras Principais para o Carimbo (Legenda)
 
 ### 1. Posicionamento e Dimensões
-*   **Localização:** Obrigatoriamente no **canto inferior direito** da folha, dentro do espaço útil (quadro).
-*   **Orientação:** Deve estar sempre na **horizontal**, mesmo que a folha esteja em posição vertical (o que é raro para formatos > A4).
-*   **Comprimento (Largura):** Padrão fixo de **180 mm** para todos os formatos (A0 a A4).
-*   **Altura:** Variável, definida pela quantidade de informações necessárias, mas deve respeitar o limite da margem inferior (10 mm).
-*   **Visibilidade:** O posicionamento é calculado para que, após o dobramento da folha para o formato A4, a legenda permaneça **totalmente visível** na face frontal.
+
+* **Localização:** Obrigatoriamente no **canto inferior direito** da folha, dentro do espaço útil (quadro).
+* **Orientação:** Deve estar sempre na **horizontal**, mesmo que a folha esteja em posição vertical (o que é raro para formatos > A4).
+* **Comprimento (Largura):** Padrão fixo de **180 mm** para todos os formatos (A0 a A4).
+* **Altura:** Variável, definida pela quantidade de informações necessárias, mas deve respeitar o limite da margem inferior (10 mm).
+* **Visibilidade:** O posicionamento é calculado para que, após o dobramento da folha para o formato A4, a legenda permaneça **totalmente visível** na face frontal.
 
 ### 2. Conteúdo Mínimo Obrigatório
+
 A norma exige que a legenda contenha, no mínimo, os seguintes campos de dados:
 
 | Campo | Descrição |
@@ -59,6 +61,7 @@ A norma exige que a legenda contenha, no mínimo, os seguintes campos de dados:
 | **Responsável Técnico** | Nome, título profissional e registro no órgão de classe (CREA/CAU), quando aplicável. |
 
 ### 3. Campos Adicionais Sugeridos
+
 A norma permite a inclusão de outros campos para atender necessidades específicas, como:
 
 * Subtítulo;
