@@ -11,13 +11,13 @@ Abaixo está a tabela técnica atualizada com as dimensões da folha, o espaço 
 
 ## Tabela de Formatos e Margens (NBR 16752:2020)
 
-| Formato | Dimensões da Folha (mm) | Margem Esquerda (mm) | Demais Margens (mm) | Espaço Útil para Desenho (mm) | Largura da Linha do Quadro (mm) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| **A0** | 841 × 1189 | 20 | 10 | 821 × 1159 | 1,0 |
-| **A1** | 594 × 841 | 20 | 10 | 574 × 811 | 1,0 |
-| **A2** | 420 × 594 | 20 | 10 | 400 × 564 | 0,7 |
-| **A3** | 297 × 420 | 20 | 10 | 277 × 390 | 0,7 |
-| **A4** | 210 × 297 | 20 | 10 | 180 × 277 | 0,7 |
+| Formato | Dimensões da Folha (mm) | Margem Esquerda (mm) | Demais Margens (mm) | Espaço Útil para Desenho (mm) |
+| :---: | :---: | :---: | :---: | :---: |
+| **A0** | 841 × 1189 | 20 | 10 | 821 × 1159 |
+| **A1** | 594 × 841 | 20 | 10 | 574 × 811 |
+| **A2** | 420 × 594 | 20 | 10 | 400 × 564 |
+| **A3** | 297 × 420 | 20 | 10 | 277 × 390 |
+| **A4** | 210 × 297 | 20 | 10 | 180 × 277 |
 
 ### Principais Alterações e Requisitos da Norma Atual
 
