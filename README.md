@@ -16,8 +16,9 @@ ___
 
 ### Aula 01
 
-
 1. Instalação do Programa
+
+        - [Criando uma conta educacional](https://www.autodesk.com/br/education/edu-software/overview#)
 
 2. Interface
 
