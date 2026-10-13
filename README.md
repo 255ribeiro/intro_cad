@@ -28,21 +28,21 @@ ___
 
 <iframe width="972" height="547" src="https://www.youtube.com/embed/fW10h4q3qiw" title="AutoCad interface linha de comando e viewport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* Tipos de arquivos
+- Tipos de arquivos
 
-      * .dwg (arquivo padrão de trabalho)
-      * .dxf (arquivo para comunicação com outros softwares)
-      * .dwt (arquivo modelo)
-      * .ctb (arquivo de espessura de penas)
-      * .pdf (arquivo para impressão)
+  - .dwg (arquivo padrão de trabalho)
+  - .dxf (arquivo para comunicação com outros      softwares)
+  - .dwt (arquivo modelo)
+  - .ctb (arquivo de espessura de penas)
+  - .pdf (arquivo para impressão)
 
-* Menus e Ribbon
+- Menus e Ribbon
 
-* Tela gráfica
+- Tela gráfica
 
-* Interface de entrada de dados
+- Interface de entrada de dados
 
-* Sistema de coordenadas
+- Sistema de coordenadas
   
 1. Navegação
 
@@ -74,15 +74,15 @@ janelas de seleção
         dist(di)
         id
 
-* [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
+- [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
 
 1. Referências e Links
 
-   * instalação
+   - instalação
 
-   * [https://www.youtube.com/watch?v=ozPfHO50jwo](https://www.youtube.com/watch?v=ozPfHO50jwo)
+   - [https://www.youtube.com/watch?v=ozPfHO50jwo](https://www.youtube.com/watch?v=ozPfHO50jwo)
 
-   * [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
+   - [https://www.youtube.com/watch?v=3Aa5Z7iN4Ac](https://www.youtube.com/watch?v=3Aa5Z7iN4Ac)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 4. Referências e Links
 
-* [History of BIM - Miro Board](https://miro.com/app/board/o9J_laML2cs=/)
+- [History of BIM - Miro Board](https://miro.com/app/board/o9J_laML2cs=/)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 1. Topografia e cortes no terreno
 
-   * [exemplo de arquivo de terreno](.\Terreno_topografia\terreno_exemplos.zip)
+   - [exemplo de arquivo de terreno](.\Terreno_topografia\terreno_exemplos.zip)
 
 1. Referências e Links
 
@@ -209,7 +209,7 @@ ___
         <br>
 
 1. Referências e Links
-   * [vídeo - margens e carimbo](https://www.bing.com/videos/search?q=autocad+margens+e+carimbo&view=detail&mid=1224CF6CFC1EAC0D71081224CF6CFC1EAC0D7108&FORM=VIRE)
+   - [vídeo - margens e carimbo](https://www.bing.com/videos/search?q=autocad+margens+e+carimbo&view=detail&mid=1224CF6CFC1EAC0D71081224CF6CFC1EAC0D7108&FORM=VIRE)
 
 ___
 
