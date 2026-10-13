@@ -18,7 +18,7 @@ ___
 
 1. Instalação do Programa
 
-        - [Criando uma conta educacional](https://www.autodesk.com/br/education/edu-software/overview#)
+- [Criando uma conta educacional](https://www.autodesk.com/br/education/edu-software/overview#)
 
 2. Interface
 
@@ -50,11 +50,9 @@ ___
 
    2. Utilizando os comandos
 
-```
-zoom(Z)
-pan(P)
-orbit
-```
+        zoom(Z)
+        pan(P)
+        orbit
 
 1. Seleção
 
@@ -66,22 +64,19 @@ janelas de seleção
    tecla ```del``` ou ```delete```
    comando ```erase(e)```
 
-2. Exercício
+1. Exercício
 
-```
-line (L)
-polyline (PL)
-circle (C)
-arc (A)
+        line (L)
+        polyline (PL)
+        circle (C)
+        arc (A)
 
-dist(di)
-id
-```
-
+        dist(di)
+        id
 
 * [Coordenadas cartesianas e polares](./exercicio_coordenadas/Exercicio_01_Coordenadas.pdf)
 
-5. Referências e Links
+1. Referências e Links
 
    * instalação
 
@@ -180,7 +175,7 @@ ___
 
    * [exemplo de arquivo de terreno](.\Terreno_topografia\terreno_exemplos.zip)
 
-2. Referências e Links
+1. Referências e Links
 
 ___
 
@@ -197,7 +192,7 @@ ___
 ### Aula 06
 
 1. [Atalhos](./atalhos/cad_atalhos.md) do Autocad.
-   
+
 1. Carregando e rodando [Scripts](./scripts_examples/scripts.md) no Autocad.
 
 1. Configuração de [textos](./textos/configTextos.md)
@@ -213,8 +208,8 @@ ___
                 ```CONVERTPSTYLES```
         <br>
 
-2. Referências e Links
-   - [vídeo - margens e carimbo](https://www.bing.com/videos/search?q=autocad+margens+e+carimbo&view=detail&mid=1224CF6CFC1EAC0D71081224CF6CFC1EAC0D7108&FORM=VIRE)
+1. Referências e Links
+   * [vídeo - margens e carimbo](https://www.bing.com/videos/search?q=autocad+margens+e+carimbo&view=detail&mid=1224CF6CFC1EAC0D71081224CF6CFC1EAC0D7108&FORM=VIRE)
 
 ___
 
