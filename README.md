@@ -204,9 +204,8 @@ ___
     - Configuração de impressora
     - configuração de penas
     - arquivo CTB
-        <br>
-                ```CONVERTPSTYLES```
-        <br>
+
+        ```CONVERTPSTYLES```
 
 1. Referências e Links
    - [vídeo - margens e carimbo](https://www.bing.com/videos/search?q=autocad+margens+e+carimbo&view=detail&mid=1224CF6CFC1EAC0D71081224CF6CFC1EAC0D7108&FORM=VIRE)
